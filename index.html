@@ -1,89 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="Kristie's personal website.">
+<meta name="author" content="Kristie Huang">
+<meta name="description" content="Engineering + business @ UC Berkeley. Operations Lead @ she256.">
+<meta name="keywords" content="Kristie, kristiehuang, kristiehhh, kristie-huang">
+<!-- Bootstrap core CSS -->
+<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="css/scrolling-nav.css" rel="stylesheet">
+
 <head>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Kristie's personal website.">
-  <meta name="author" content="Kristie Huang">
-
   <title>Kristie Huang</title>
-  <meta name="description" content="Engineering + business @ UC Berkeley. Operations Lead @ she256.">
-  <meta name="keywords" content="Kristie, kristiehuang, kristiehhh, kristie-huang">
-  <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <link href="css/scrolling-nav.css" rel="stylesheet">
-
 </head>
-
 
 <style>
   body {
     width: 100%;
     margin: auto;
   }
+
   .gallery {
     width: 100%;
     display: flex;
     flex-flow: row wrap;
   }
+
   .box {
     flex-basis: 20%;
     width: 100%;
     padding: 10px;
-    margin: 8px;
+    margin: 0px;
   }
+
   .text {
     text-align: center;
     margin-top: 5px;
   }
-  /* media query used here
-  @media only screen and (max-width: 300px) {
-    .box {
-      flex-basis: 100%;
-    }
-  }
 
-  @media only screen and (max-width:500px) {
-    .box {
-      flex-basis: 40%;
-    }
+  .header {
+    margin-top: 100px;
   }
-  */
+  .title {
+    font-size: 30px;
+  }
 </style>
 
-<body id="page-top">
-
-  <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" id="mainNav">
-    <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Kristie Huang</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-        aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#skills">Projects</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#other">Other</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-
-  <!--skills, failures,
+<!--skills, failures,
   WHAT IM DOING 
             WHAT IVE DONE 
             PROJECTS (cards)
@@ -93,14 +57,16 @@
 
            -->
 
-  <!-- <header class="bg-primary text-white"> -->
-  <header style="background-color: #FFF5ED ;">
+<!-- <header class="bg-primary text-white"> -->
+
+<body>
+  <section id="header">
     <div class="container text-center">
       <h1>Hey, I'm Kristie!</h1>
-      <p class="lead">UC Berkeley M.E.T. (Industrial Engineering + Business) <br>
+      <p class="lead">UC Berkeley M.E.T. (EECS + IEOR + Business) <br>
         Operations Lead @ she256</p>
     </div>
-  </header>
+  </section>
 
   <section id="about">
     <div class="container">
@@ -112,12 +78,12 @@
             use she/her pronouns.</p>
           <p class="lead">What I'm doing now:</p>
           <ul>
-            <li>Leading operations at <a href="https://she256.org/">she256</a>. I'm also working on a jobs platform for
-              underrepresented groups in blockchain!</li>
+            <li>Leading operations at <a href="https://she256.org/">she256</a>. Working on a jobs platform for
+              underrepresented groups in blockchain.</li>
             <li>Reading and <a href="https://twitter.com/kristiehuang">tweeting</a> all things tech + startup. Recommend
               me a newsletter or Twitter account!</li>
             <li>Heading to Facebook as a software engineering intern this summer.</li>
-            <li>Learniiinggg! EdX and Coursera are some of my most-visited websites.</li>
+            <li>Learning! Student-ing at UC Berkeley M.E.T.</li>
             <li>Building a project board initiative for M.E.T. Student Board.</li>
             <li>Fellow-ing at Rewriting the Code.</li>
             <li>Some things I enjoy: startups, college consulting, thrifting, volleyball, podcasts, productivity hacks,
@@ -128,43 +94,40 @@
             cofounded a fashion tech venture, built and launched two <a href="http://tinyurl.com/cloudcloset">iOS</a> <a
               href="http://tinyurl.com/airtimeevents">apps</a> to the App Store, and managed a <a
               href="https://issuu.com/pandorasbox.gunn">creative magazine</a>.</p>
-          <p>Here's my <a href="https://drive.google.com/file/d/0B2rlie9ZaAG4UjcyVTJ3b2xiZzA/view">résumé</a>; feel free
-            to reach out!</p>
+          Here's my <a href="https://drive.google.com/file/d/0B2rlie9ZaAG4UjcyVTJ3b2xiZzA/view">resume</a>.
+          <p>Here's my <a href=/failures.html>failure resume</a>.</p>
 
         </div>
       </div>
     </div>
   </section>
 
-  <section id="contact" class="bg-light">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 mx-auto">
-          <h2>Contact me</h2>
-          Email:
-          kristiehuang01 at gmail
-          <br>
-          LinkedIn:
-          <a href="https://www.linkedin.com/in/kristie-huang">/in/kristie-huang</a>
-          <br>
-          GitHub:
-          <a href="https://www.github.com/kristiehuang">@kristiehuang</a>
-          <br>
-          Behance:
-          <a href="https://www.behance.net/kristiehuang">@kristiehuang</a>
-          <br><br>
-          <p>Find me on the socials at <a href="https://twitter.com/kristiehuang">Twitter</a> and <a
-              href="https://facebook.com/kristiehhh">Facebook</a>!
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <h2>Reach me</h2>
+        Tweet at me <a href="https://twitter.com/kristiehuang">@kristiehuang</a>, or <a
+          href="mailto:kristiehuang01@gmail.com">email me</a>.
+        <br> <br>
+        LinkedIn:
+        <a href="https://www.linkedin.com/in/kristie-huang">/in/kristie-huang</a>
+        <br>
+        GitHub:
+        <a href="https://www.github.com/kristiehuang">@kristiehuang</a>
+        <br>
+        Behance:
+        <a href="https://www.behance.net/kristiehuang">@kristiehuang</a>
       </div>
-  </section>
+    </div>
+  </div>
 
+  <!--
   <section id="projects">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2>Projects</h2>
-          <p class="lead">Professional Experience</p> <!--she256, 7q, maodou, cloudcloset-->
+          <p class="lead">Professional Experience</p> she256, 7q, maodou, cloudcloset
           <div class="gallery">
             <div class="box">
               <div class="image">
@@ -187,29 +150,26 @@
               <div class="text">Still tweaking with this! Stay tuned :)</div>
             </div>
           </div>
-          <p class="lead">Side Projects</p> <!-- airtime, tweetone, makestagram -->
-          <p class="lead">Mini Projects & Hackathons</p> <!--bloqi, studio ghibli, everything else on my gifthub-->
+          <p class="lead">Side Projects</p> airtime, tweetone, makestagram
+          <p class="lead">Mini Projects & Hackathons</p> bloqi, studio ghibli, everything else on my gifthub
         </div>
       </div>
     </div>
   </section>
+  -->
 
-  <section id="other" class="bg-light">
+  <section id="other">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
-          <h2>Other</h2>
-          <p class="lead">Failures</p>
-          <p>My <a href=/failures.html>failure résumé</a>. After all, fail fast and break things.</p>
-          <p class="lead">Trivia about me</p>
+          <h2>Beyond work</h2>
           <ul>
             <li>My favorite color is <a href="https://www.colorhexa.com/ff9980">#ff9980</a>; my friends call it "Kristie
               red"</li>
             <li>I'm an ESTJ</li>
             <li>Love dried fruits too much for my own good</li>
             <li>I own too many scrunchies :(</li>
-            <li>My personality: startups & TikTok(</li>
-            <li>i type in lowercase & often w/o punctuation lol</li>
+            <li>big lowercase text advocate</li>
           </ul>
 
         </div>

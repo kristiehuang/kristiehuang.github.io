@@ -31,6 +31,7 @@ But, despite all the cool things being currently worked on, there’s so much mo
 ### Miscellaneous:
 
 * I have idiopathic scoliosis! Wore a back brace for 23 hours a day from 4th to 9th grade to avoid open-back surgery. I was a hardy fourth grader—literally :’) When I was 14, I started a [Change.org petition](https://www.change.org/p/state-of-california-mandate-life-saving-scoliosis-screenings-in-elementary-schools) to the CA governor to mandate scoliosis screenings in elementary schools. It gathered hundreds of heartfelt comments & 10k signatures. Nothing came out of it though, unfortunately.
+* My very first website was a [5th grade graduation website](https://sites.google.com/site/hooverforeverclassof2012/home) from 2012! My second was a [scoliosis awareness website](https://sites.google.com/view/scoliosis-awareness-kristie/).
 * A favorite quarantine read: [Ankit Shah’s essay on Being Alone](https://www.ankit.fyi/being-alone)
 * My productivity stack: Bear, OneNote, GCal, Notion, Spark
 * I’m an ESTJ

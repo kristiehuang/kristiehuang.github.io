@@ -1,7 +1,18 @@
 /** Reset some basic elements */
+
 h1 { 
-    font-size: 300%;
-  }
+  font-size: 300%;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 50px;
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: 100;
+}
 
 /** Basic styling */
 body { 

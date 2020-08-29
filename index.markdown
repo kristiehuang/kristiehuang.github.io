@@ -10,7 +10,7 @@ Welcome to my corner of the Internet! I’m a full-time dual-degree student at U
 
 I use she/her pronouns. My curiosities include startups, crypto, diversity/equity/inclusion, and product. More recently, though, I’ve been thinking about wellness/happiness, solitude, and what it means to be successful. I also recently moved into my first ever apartment; please send me your Pinterest boards and favorite houseplant recommendations :)
 
-✨ [More on me](_/more-on-me_)
+✨ [More on me](/more-on-me_)
 
 ### Currently:
 * Bettering the blockchain space as Operations Lead @ [she256][#she256]. Working on a jobs platform for underrepresented groups in blockchain + community engagement.

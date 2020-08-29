@@ -1,6 +1,7 @@
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+h1, h2, h3, h4, h5, h6 { font-weight: 600; }
 
 h1 { 
   font-size: 300%;
@@ -14,7 +15,7 @@ h2 {
 
 h3 {
   font-size: 1.25rem;
-  font-weight: 100;
+  font-weight: 400;
 }
 
 /** Basic styling */
@@ -42,9 +43,6 @@ figcaption { font-size: 14px; }
 ul, ol { margin-left: 30px; }
 
 li > ul, li > ol { margin-bottom: 0; }
-
-/** Headings */
-h1, h2, h3, h4, h5, h6 { font-weight: 600; }
 
 /** Links */
 a:link {

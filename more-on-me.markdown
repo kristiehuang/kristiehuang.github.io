@@ -14,11 +14,7 @@ So I’m a pretty visual learner and thinker. To me, someone’s favorite color 
 
 I almost went to art school. I got to 25k/50k words in my NaNoWriMo novel in my 7th grade. Then I nearly became an international relations / economics major (thank you, [YYGS](https://globalscholars.yale.edu/international-affairs-globalization)!). I was never a ~tech~ person & won’t ever be fully tech to the core.
 
-<<<<<<< HEAD
 I do love to create though, and I’m passionate about creating impact. I’m still figuring things out, but I think this is where software’s speed of iteration and accessibility to beginners ultimately won out. Things first started as I ventured from physical painting&drawing to [designing visual interfaces(https://kristiehuang.github.io/). Then, after dozens of Sketch files and Invision prototypes, I wanted to try my hand at building out some of these products.
-=======
-I do love to create though, and I’m passionate about creating impact. I’m still figuring things out, but I think this is where software’s speed of iteration and accessibility to beginners ultimately won out. Things first started as I ventured from physical painting&drawing to designing visual interfaces. Then, after dozens of Sketch files and Invision prototypes, I wanted to try my hand at building out some of these products.
->>>>>>> 79f6146309be9b477801d3a6efcabaa256496a98
 
 I was very privileged to be able to spend my 10th grade summer at Make School’s Summer Academy—where I first learned to code & shipped my first [two](http://tinyurl.com/cloudcloset) [products](http://tinyurl.com/airtimeevents). Cue the hackathons, CS classes, and engineering major declaration. Along the way, I learned the 16-character term for new product creation: entrepreneurship. It was an opportunity to translate ideas into real impact for real people.
 

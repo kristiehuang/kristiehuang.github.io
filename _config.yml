@@ -32,7 +32,7 @@ linkedin_username: kristie-huang
 facebook_username: kristiehhh
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 

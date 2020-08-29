@@ -35,6 +35,6 @@ I love meeting new people! If you’ve read this far, please say hi :) Let’s c
 
 I’m also always open to opportunity; specifically, I’m interested in crypto, SWE, product internships for summer 2021.
 
-DM me on Twitter [@kristiehuang](_https://twitter.com/kristiehuang_), message me on [Facebook](_https://www.facebook.com/kristiehhh_), or [email me](mailto:kristiehuang01@gmail.com).
+DM me on Twitter [@kristiehuang](https://twitter.com/kristiehuang), message me on [Facebook](https://www.facebook.com/kristiehhh), or [email me](mailto:kristiehuang01@gmail.com).
 
 [#she256]: _http://she256.org/_

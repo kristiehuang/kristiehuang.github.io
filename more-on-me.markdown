@@ -40,4 +40,4 @@ But, despite all the cool things being currently worked on, there’s so much mo
 * big lowercase text advocate
 * Some other things I enjoy: volleyball, college consulting, thrifting
 
-[#she256]: _http://she256.org/_
+[#she256]: http://she256.org/

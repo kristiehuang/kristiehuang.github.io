@@ -16,7 +16,7 @@ Vanessa Slavich from Celo breaks crypto down into three camps: [“get rich quic
 
 Beyond financial accessibility though, I think there are some really exciting projects using blockchain to push the boundaries of everything that we know. Off the top of my head, I’m thinking about projects like Alex Masmej’s self-tokenization; Foundation using crypto as a new revenue vehicle for creators; Dharma building a neobank on top of Compound. We’re able to redefine what it means to own something and what it means to have money.
 
-But, despite all the cool things being currently worked on, there’s so much more work to be done. We can’t have widespread crypto adoption without important work done in user experience — to this day, crypto’s understood to the layman & laywoman as nothing but a volatile commodity and a payment vehicle for illegal marketplaces. And for those just starting to explore crypto, technical jargon like [“gas”, “seed phrases”, and “non-custodial”](https://www.dharma.io/) scare beginners away. From a regulatory standpoint, Libra’s still absolutely pushing the envelope by building a whole new payment rail from scratch. Smart contract exploits happen all the time. [Financial inclusion can’t happen unless the people building these systems are diverse.](#she256) (And we still don’t know who Satoshi is.) I think, for the time being at least, that this is where I want be.
+But, despite all the cool things being currently worked on, there’s so much more work to be done. We can’t have widespread crypto adoption without important work done in user experience — to this day, crypto’s understood to the layman & laywoman as nothing but a volatile commodity and a payment vehicle for illegal marketplaces. And for those just starting to explore crypto, technical jargon like [“gas”, “seed phrases”, and “non-custodial”](https://www.dharma.io/) scare beginners away. From a regulatory standpoint, Libra’s still absolutely pushing the envelope by building a whole new payment rail from scratch. Smart contract exploits happen all the time. [Financial inclusion can’t happen unless the people building these systems are diverse.](http://she256.org/) (And we still don’t know who Satoshi is.) I think, for the time being at least, that this is where I want be.
 
 ### On... tech?
 
@@ -36,7 +36,7 @@ Actively working on being a better intersectional feminist (#BlackLivesMatter) a
 ### Miscellaneous:
 
 * I have idiopathic scoliosis! Wore a back brace for 23 hours a day from 4th to 9th grade to avoid open-back surgery. I was a hardy fourth grader—literally :’) When I was 14, I started a [Change.org petition](https://www.change.org/p/state-of-california-mandate-life-saving-scoliosis-screenings-in-elementary-schools) to the CA governor to mandate scoliosis screenings in elementary schools. It gathered hundreds of heartfelt comments & 10k signatures. Nothing came out of it though, unfortunately.
-* In 7-9th grade, I ran a [studyblr](studycxlture.tumblr.com) with 10k followers :)
+* In 7-9th grade, I ran a [studyblr](https://studycxlture.tumblr.com/) with 10k followers :)
 * My very first website was a [5th grade graduation website](https://sites.google.com/site/hooverforeverclassof2012/home) from 2012! My second was a [scoliosis awareness website](https://sites.google.com/view/scoliosis-awareness-kristie/).
 * A favorite quarantine read: [Ankit Shah’s essay on Being Alone](https://www.ankit.fyi/being-alone)
 * My productivity stack: Bear, OneNote, GCal, Notion, Spark
@@ -47,5 +47,3 @@ Actively working on being a better intersectional feminist (#BlackLivesMatter) a
 * Some other things I enjoy: volleyball, college consulting, thrifting
 
 If you've read this far, [please, please say hi](https://twitter.com/kristiehuang).
-
-[#she256]: http://she256.org/

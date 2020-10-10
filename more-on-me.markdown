@@ -46,4 +46,6 @@ Actively working on being a better intersectional feminist (#BlackLivesMatter) a
 * big lowercase text advocate
 * Some other things I enjoy: volleyball, college consulting, thrifting
 
+If you've read this far, [please, please say hi](https://twitter.com/kristiehuang).
+
 [#she256]: http://she256.org/

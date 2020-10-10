@@ -30,7 +30,7 @@ For a fuller professional overview, check out my [LinkedIn](https://www.linkedin
 Here’s my [résumé](https://drive.google.com/file/d/0B2rlie9ZaAG4UjcyVTJ3b2xiZzA/view).
 
 ## Contact
-I love meeting new people! If you’ve read this far, please say hi :) Let’s chat about anything from payment networks to houseplants to Trader Joe's freeze-dried mangoes.
+I love meeting new people! If you’ve read this far, please say hi :) Let’s chat about anything from payment networks to creative magazines to houseplants.
 
 I’m also always open to opportunity; specifically, I’m interested in crypto, SWE, product internships for summer 2021.
 

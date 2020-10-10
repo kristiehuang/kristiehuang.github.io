@@ -26,7 +26,12 @@ I do love to create though, and I’m passionate about creating impact. I’m st
 
 I was very privileged to be able to spend my 10th grade summer with Make School—where I first learned to code & shipped my first two [real](http://tinyurl.com/cloudcloset) [products](http://tinyurl.com/airtimeevents). Cue the [hackathons](https://devpost.com/kristiehuang), compsci classes, and engineering major declaration. Along the way, I learned the 16-character term for new product creation: entrepreneurship. It was an opportunity to translate ideas into real impact for real people.
 
-So now I’m pursuing a dual-degree in EECS and Business in UC Berkeley’s M.E.T. program. Sounds real ~tech-trash-to-the-core~, I know. I think it’s the fastest path from where I am to being able to create things to help people though. And because of my non-tech background, I know the user experience is the most important element to any product.
+So now I’m pursuing a dual-degree in EECS and Business in UC Berkeley’s M.E.T. program. Sounds real ~tech-trash-to-the-core~, I know. I think it’s the fastest path from where I am to being able to create things to help people though.
+
+### Diversity, equity, and inclusion
+no brainer.
+Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being THE reason why I'm in tech today. I LITERALLY would not be in tech if it wasn't for these online support systems. Cannot stress this enough. I give back my time [frequently](https://www.instagram.com/p/CBbVHmalvQj/) to younger girls breaking into tech + helping with college apps, because I know how absolutely essential it was for me.
+Actively working on being a better intersectional feminist (#BlackLivesMatter) and doing important work at she256.
 
 ### Miscellaneous:
 

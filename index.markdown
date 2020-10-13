@@ -16,6 +16,7 @@ I use she/her pronouns. My curiosities include startups, crypto, diversity/equit
 ✨ [More on me](/more-on-me)
 
 ### Currently:
+* Research & content intern @ [Pantera Capital](https://www.panteracapital.com/).
 * Bettering the blockchain space as Operations Lead @ [she256][#she256]. Working on a [jobs platform for underrepresented groups in blockchain + community engagement](https://medium.com/she-256/announcing-the-she256-job-board-beta-launch-9709d3c3e107).
 * Trying my hardest to sit down and study EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
 * [Tweeting](https://twitter.com/kristiehuang) all things tech + startups + crypto + DEI.

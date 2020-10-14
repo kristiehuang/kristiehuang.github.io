@@ -33,12 +33,16 @@ no brainer.
 Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being THE reason why I'm in tech today. I LITERALLY would not be in tech if it wasn't for these online support systems. Cannot stress this enough. I give back my time [frequently](https://www.instagram.com/p/CBbVHmalvQj/) to younger girls breaking into tech + helping with college apps, because I know how absolutely essential it was for me.
 Actively working on being a better intersectional feminist (#BlackLivesMatter) and doing important work at she256.
 
+### A couple favorite essays
+* [Being Alone – Ankit Shah](https://www.ankit.fyi/being-alone)
+* [Signs of Spring - Abigail Africa](https://app.sparkmailapp.com/web-share/9OJcHD2jn-v0gPAjRfG_phaW3Hbz4gTEOzHm694E)
+* [on self-directed work: a cartographer’s journey – paige finn doherty](https://paigefinndoherty.com/2020/10/13/on-self-directed-work-a-cartographers-journey/)
+
 ### Miscellaneous:
 
 * I have idiopathic scoliosis! Wore a back brace for 23 hours a day from 4th to 9th grade to avoid open-back surgery. I was a hardy fourth grader—literally :’) When I was 14, I started a [Change.org petition](https://www.change.org/p/state-of-california-mandate-life-saving-scoliosis-screenings-in-elementary-schools) to the CA governor to mandate scoliosis screenings in elementary schools. It gathered hundreds of heartfelt comments & 10k signatures. Nothing came out of it though, unfortunately.
 * In 7-9th grade, I ran a [studyblr](https://studycxlture.tumblr.com/) with 10k followers :)
 * My very first website was a [5th grade graduation website](https://sites.google.com/site/hooverforeverclassof2012/home) from 2012! My second was a [scoliosis awareness website](https://sites.google.com/view/scoliosis-awareness-kristie/).
-* A favorite quarantine read: [Ankit Shah’s essay on Being Alone](https://www.ankit.fyi/being-alone)
 * My productivity stack: Bear, OneNote, GCal, Notion, Spark
 * I’m an ESTJ
 * Love dried fruits too much for my own good

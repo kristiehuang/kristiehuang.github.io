@@ -8,9 +8,9 @@ title: Home
 ---
 
 ## Hey, I’m Kristie! 👋
-Welcome to my corner of the Internet! I’m a full-time dual-degree student at UC Berkeley (go bears), full-time DeFi evangelist, and, most importantly, full-time human being.
+I'm a blockchain geek, UC Berkeley student, and human being. (she/her)
 
-I use she/her pronouns. My curiosities include startups, crypto, diversity/equity/inclusion, and product. More recently, though, I’ve been thinking about wellness/happiness, my privilege, solitude, and what it means to be successful. I also recently moved into my first ever apartment; please send me your Pinterest boards and favorite houseplant recommendations :)
+My "resumé" curiosities include startups, crypto, diversity/equity/inclusion, and product. Beyond work, though, I’ve been reflecting on my wellness/happiness, privilege, solitude, and what it means to be successful. Welcome to my corner of the internet :)
 
 
 ✨ [More on me](/more-on-me)
@@ -18,8 +18,7 @@ I use she/her pronouns. My curiosities include startups, crypto, diversity/equit
 ### Currently:
 * Research & content intern @ [Pantera Capital](https://www.panteracapital.com/).
 * Bettering the blockchain space as Operations Lead @ [she256][#she256]. Working on a [jobs platform for underrepresented groups in blockchain + community engagement](https://medium.com/she-256/announcing-the-she256-job-board-beta-launch-9709d3c3e107).
-* Trying my hardest to sit down and study EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
-* [Tweeting](https://twitter.com/kristiehuang) all things tech + startups + crypto + DEI.
+* Doing homework sets to get my degree in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
 * Reading, journaling, painting, going on walks, trying to be better at [being alone](https://www.ankit.fyi/being-alone) this quarantine season.
 * WFH from not-home - Berkeley, CA!
 
@@ -32,9 +31,5 @@ Here’s my [résumé](https://drive.google.com/file/d/0B2rlie9ZaAG4UjcyVTJ3b2xi
 
 ## Contact
 I love meeting new people! If you’ve read this far, please say hi :) Let’s chat about anything from payment networks to creative magazines to houseplants.
-
-I’m also always open to opportunity; specifically, I’m interested in crypto, SWE, product internships for summer 2021.
-
-DM me on Twitter [@kristiehuang](https://twitter.com/kristiehuang), message me on [Facebook](https://www.facebook.com/kristiehhh), or [email me](mailto:kristiehuang01@gmail.com).
 
 [#she256]: http://she256.org/

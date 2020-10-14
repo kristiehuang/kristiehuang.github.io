@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-last-updated: October 9, 2020
+last-updated: October 13, 2020
 title: Kristie Huang
 email-scraping: kristiehuang01 (at) gmail
 email: kristiehuang01@gmail.com

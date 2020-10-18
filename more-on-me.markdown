@@ -30,13 +30,17 @@ So now I’m pursuing a dual-degree in EECS and Business in UC Berkeley’s M.E.
 
 ### Diversity, equity, and inclusion
 no brainer.
-Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being THE reason why I'm in tech today. I LITERALLY would not be in tech if it wasn't for these online support systems. Cannot stress this enough. I give back my time [frequently](https://www.instagram.com/p/CBbVHmalvQj/) to younger girls breaking into tech + helping with college apps, because I know how absolutely essential it was for me.
+Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being THE reason why I'm in tech today. I LITERALLY would not be in tech if it wasn't for these online support systems. Cannot stress this enough. I give back my time frequently to younger girls breaking into tech + helping with college apps, because I know how absolutely essential it was for me.
 Actively working on being a better intersectional feminist (#BlackLivesMatter) and doing important work at she256.
+
+### Talks and features
+* [Girls Get IT #GirlPowerPanel](https://www.instagram.com/p/CBbVHmalvQj/)
+* [BAF x she256 Panel: The Path to Mass Adoption, with Catherine Coley & Vanessa Grellet](https://www.youtube.com/watch?v=f3i9kItUi-k&t=73s)
 
 ### A couple favorite essays
 * [Being Alone – Ankit Shah](https://www.ankit.fyi/being-alone)
-* [Signs of Spring - Abigail Africa](https://app.sparkmailapp.com/web-share/9OJcHD2jn-v0gPAjRfG_phaW3Hbz4gTEOzHm694E)
-* [on self-directed work: a cartographer’s journey – paige finn doherty](https://paigefinndoherty.com/2020/10/13/on-self-directed-work-a-cartographers-journey/)
+* [Signs of Spring – Abigail Africa](https://app.sparkmailapp.com/web-share/9OJcHD2jn-v0gPAjRfG_phaW3Hbz4gTEOzHm694E)
+* [on self-directed work: a cartographer’s journey – Paige Finn Doherty](https://paigefinndoherty.com/2020/10/13/on-self-directed-work-a-cartographers-journey/)
 
 ### Miscellaneous:
 

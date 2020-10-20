@@ -16,8 +16,8 @@ My "resumé" curiosities include startups, crypto, diversity/equity/inclusion, a
 ✨ [More on me](/more-on-me)
 
 ### Currently:
-* Research & content intern @ [Pantera Capital](https://www.panteracapital.com/).
-* Bettering the blockchain space as Operations Lead @ [she256][#she256]. Working on a [jobs platform for underrepresented groups in blockchain + community engagement](https://medium.com/she-256/announcing-the-she256-job-board-beta-launch-9709d3c3e107).
+* Learning, writing, interning @ [Pantera Capital](https://www.panteracapital.com/).
+* Bettering the blockchain space as Operations Lead @ [she256][#she256]. Working on a [jobs platform](https://medium.com/she-256/announcing-the-she256-job-board-beta-launch-9709d3c3e107) for underrepresented groups in blockchain + community engagement.
 * Doing homework sets to get my degree in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
 * [Reading](https://www.goodreads.com/kristiehhh), [exploring new trails](https://www.strava.com/athletes/19298552), journaling, painting, plant-caretaking, trying to be better at [being alone](https://www.ankit.fyi/being-alone) this quarantine season.
 * WFH from not-home - Berkeley, CA!

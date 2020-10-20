@@ -4,6 +4,14 @@ title: More on me
 permalink: /more-on-me/
 ---
 
+
+### Learning in non-private
+Learning (outside of school) has always been a pretty private, siloed experience for me. Trying a new experiment: [learning in "public"](https://www.notion.so/dual-effort-learning-in-public-cc9ff63eabc64d27a3efe45369fccd88)! It's a shared, dual-effort document with one of my loved ones as we explore this alongside one another.
+
+For now, it's going to be mostly crypto & VC-centric as I navigate a new research + content role at blockchain VC firm Pantera Capital. The intention is to be more authentic and transparent with my progress, and I'm starting by publicizing some of my own messy, non-linear notes. I'm not editing for the public eye, so there's no guarantee for grammar or orderliness or even correctness. 
+
+Notice that I got something wrong? Commenting functionality is on, so please do feel free to leave feedback!
+
 ### Art & colors:
 
 From the age of five, I believed I was destined to become an oil painter. I was essentially fostered for twelve years in a small, unventilated art studio. Growing up, most of my jeans and pants were splattered with [paint](https://www.behance.net/gallery/72001185/Kristie-Huang-Art-Portfolio).
@@ -29,8 +37,8 @@ I was very privileged to be able to spend my 10th grade summer with Make School�
 So now I’m pursuing a dual-degree in EECS and Business in UC Berkeley’s M.E.T. program. Sounds real ~tech-trash-to-the-core~, I know. I think it’s the fastest path from where I am to being able to create things to help people though.
 
 ### Diversity, equity, and inclusion
-no brainer.
-Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being THE reason why I'm in tech today. I LITERALLY would not be in tech if it wasn't for these online support systems. Cannot stress this enough. I give back my time frequently to younger girls breaking into tech + helping with college apps, because I know how absolutely essential it was for me.
+huge for me.
+Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being THE reason why I'm in tech today. I literally would not be in tech if it wasn't for these online support systems. I give back my time frequently to younger girls breaking into tech + helping with college apps, because I know how absolutely essential it was for me.
 Actively working on being a better intersectional feminist (#BlackLivesMatter) and doing important work at she256.
 
 ### Talks and features

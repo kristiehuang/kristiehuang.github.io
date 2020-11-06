@@ -44,6 +44,7 @@ Actively working on being a better intersectional feminist (#BlackLivesMatter) a
 ### Talks and features
 * [Girls Get IT #GirlPowerPanel](https://www.instagram.com/p/CBbVHmalvQj/)
 * [BAF x she256 Panel: The Path to Mass Adoption, with Catherine Coley & Vanessa Grellet](https://www.youtube.com/watch?v=f3i9kItUi-k&t=73s)
+* [Girl Genius - College Application AMA](https://www.instagram.com/p/CHG3XjkD1MG/)
 
 ### A couple favorite essays
 * [Being Alone – Ankit Shah](https://www.ankit.fyi/being-alone)

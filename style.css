@@ -45,27 +45,29 @@ li > ul, li > ol { margin-bottom: 0; }
 
 /** Links */
 a:link {
-color: #eb614c;
+/* color: #eb614c; */
+color: #bc4d3c;
 background-color: transparent;
 text-decoration: none;
 }
 
 a:visited {
-color: #eb614c;
+/* color: #eb614c; */
+color: #bc4d3c;
 background-color: transparent;
-text-decoration: none;
-}
-
-a:hover {
-color: #ff9980;
-background-color: transparent;
-text-decoration: underline;
 }
 
 a:active {
-color: #ff9980;
+/* color: #ff9980; */
 background-color: transparent;
-text-decoration: underline;
+
+}
+
+a:hover {
+  /* color: #ff9980; */
+  color: #ff9980;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 /** Blockquotes */
@@ -120,7 +122,7 @@ table td { border: 1px solid #e8e8e8; }
 }
 
 .site-title { font-size: 56px; font-weight: 300; 
-  line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+  line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; border-bottom: none;}
 
 .site-title, .site-title:link, .site-title:visited { color: #424242; }
 

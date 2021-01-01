@@ -5,7 +5,6 @@ permalink: /blog/
 ---
 
 <div class="home">
-  <h2>Under construction!</h2>
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}

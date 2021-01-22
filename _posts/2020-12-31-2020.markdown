@@ -2,7 +2,7 @@
 layout: post
 title:  reflections on my 2020 and goals
 date:   2020-12-31 23:53:18 -0700
-categories: 
+categories: blog
 ---
 
 this is less of a blogpost and more of a public reflection. thanks for stopping by my little nook on the internet. 

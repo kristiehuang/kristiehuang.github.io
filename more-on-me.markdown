@@ -29,14 +29,6 @@ When I tried my hand at [UI/UX design](https://www.behance.net/kristiehuang), I 
 
 I was very privileged to be able to spend my 10th grade summer with Make School—where I first learned to code & shipped my first two [real](http://tinyurl.com/cloudcloset) [apps](http://tinyurl.com/airtimeevents). It's been a whirlwind since then; cue the [hackathons](https://devpost.com/kristiehuang), compsci classes, and engineering degree decision. Along the way, I learned the 16-character term for new product creation: entrepreneurship.
 
-### My thoughts on crypto
-
-Vanessa Slavich from Celo breaks crypto down into three camps: [“get rich quick, libertarians, and social change”](https://link.medium.com/wMcJmALc68). I’m personally, like Vanessa, most excited about the latter — financial inclusion & accessibility made possible by DeFi. In 2020, billions of people across the globe have access to a mobile phone but don’t have access to crossborder financial systems.
-
-Beyond financial accessibility though, I think there are some really exciting projects using blockchain to push the boundaries of everything that we know. Off the top of my head, I’m thinking about projects like Alex Masmej’s self-tokenization; Foundation using crypto as a new revenue vehicle for creators; Dharma building a neobank on top of Compound. We’re able to redefine what it means to own something and what it means to have money.
-
-But, despite all the cool things being currently worked on, there’s so much more work to be done. We can’t have widespread crypto adoption without important work done in user experience — to this day, crypto’s understood to the layman & laywoman as nothing but a volatile commodity and a payment vehicle for illegal marketplaces. And for those just starting to explore crypto, technical jargon like [“gas”, “seed phrases”, and “non-custodial”](https://www.dharma.io/) scare beginners away. From a regulatory standpoint, Libra’s still absolutely pushing the envelope by building a whole new payment rail from scratch. Smart contract exploits happen all the time. [Financial inclusion can’t happen unless the people building these systems are diverse.](http://she256.org/) (And we still don’t know who Satoshi is.) I think, for the time being at least, that this is where I want be.
-
 ### Diversity, equity, and inclusion
 huge for me.
 Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being THE reason why I'm in tech today. I literally would not be in tech if it wasn't for these online support systems. I give back my time frequently to younger girls breaking into tech + helping with college apps, because I know how absolutely essential it was for me.

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  my crypto thesis (and b@b application)
+title:  my crypto thesis
 date:   2021-1-28 23:45:18 -0700
 categories: blog
 ---
 
-**My most recent application to Blockchain @ Berkeley also serves as a pretty holistic summary of why I'm excited about crypto.**
+**My most recent essay application to the blockchain club on campus also serves as a pretty holistic summary of why I'm excited about crypto. :)**
 
 Nearly 1 out of every 3 adults worldwide do not have a bank or a mobile money provider. Access to money is the first critical step in escaping poverty—but developing economies often lack the necessary financial or governmental infrastructure to provide reliable, accessible money access to their people. For those who are lucky to have access, cross-border transactions are unsustainably costly and slow. And yet 1 in every 7 people on this planet relies on sending or receiving remittances—often from foreign workers back to their families in their home countries. 
 

@@ -35,9 +35,10 @@ Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being
 Actively working on being a better intersectional feminist (#BlackLivesMatter) and doing important work at she256.
 
 ### The proof
+* [RTC + she256 Workshop #1: Intro to Blockchain & Industry Overview](https://twitter.com/she_256/status/1364439534906171393)
 * [Girls Get IT #GirlPowerPanel](https://www.instagram.com/p/CBbVHmalvQj/)
 * [BAF x she256 Panel: The Path to Mass Adoption, with Catherine Coley & Vanessa Grellet](https://www.youtube.com/watch?v=f3i9kItUi-k&t=73s)
-* [Girl Genius - College Application AMA](https://www.instagram.com/p/CHG3XjkD1MG/)
+* [Girl Genius Magazine - College Application AMA](https://youtu.be/lKmgBW9mHGk)
 
 ### A couple favorite essays
 * [Being Alone – Ankit Shah](https://www.ankit.fyi/being-alone)

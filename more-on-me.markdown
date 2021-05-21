@@ -32,7 +32,7 @@ I was very privileged to be able to spend my 10th grade summer with Make Schoolâ
 ### Diversity, equity, and inclusion
 huge for me.
 Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being THE reason why I'm in tech today. I literally would not be in tech if it wasn't for these online support systems. I give back my time frequently to younger girls breaking into tech + helping with college apps, because I know how absolutely essential it was for me.
-Actively working on being a better intersectional feminist (#BlackLivesMatter) and doing important work at she256.
+Actively working on being a better intersectional feminist and doing important work at she256.
 
 ### The proof
 * [RTC + she256 Workshop #1: Intro to Blockchain & Industry Overview](https://twitter.com/she_256/status/1364439534906171393)

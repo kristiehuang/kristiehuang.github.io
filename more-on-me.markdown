@@ -41,6 +41,7 @@ Actively working on being a better intersectional feminist and doing important w
 * [Girl Genius Magazine - College Application AMA](https://youtu.be/lKmgBW9mHGk)
 
 ### A couple favorite essays
+* [Dust – Carmen Lau](https://carmenlau.com/thoughts/dust)
 * [Being Alone – Ankit Shah](https://www.ankit.fyi/being-alone)
 * [Signs of Spring – Abigail Africa](https://app.sparkmailapp.com/web-share/9OJcHD2jn-v0gPAjRfG_phaW3Hbz4gTEOzHm694E)
 * [on self-directed work: a cartographer’s journey – Paige Finn Doherty](https://paigefinndoherty.com/2020/10/13/on-self-directed-work-a-cartographers-journey/)

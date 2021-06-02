@@ -28,15 +28,17 @@ My "resumé" curiosities include startups, decentralized systems, fintech, diver
 ### Most recently
 * Interned, researched, wrote, and supported crypto companies @ [Pantera Capital](https://www.panteracapital.com/). My last two published pieces: [investing in Wintermute](https://panteracapital.medium.com/investing-in-wintermute-d4ece31ff665), [investing in Balancer](https://panteracapital.medium.com/investing-in-balancer-63f8246df954).
 
-**Previously**, iOS engineering intern @ Facebook, building a [donation-splitting payments app](https://github.com/kristiehuang/Basket-Donation-Payments). Previously, product design intern at [7QUBES](https://www.7qubes.com/our-work/pay8fwd), cofounded a fashion tech venture, built and launched two [iOS](http://tinyurl.com/cloudcloset) [apps](http://tinyurl.com/airtimeevents) to the App Store, and managed a [creative magazine](https://issuu.com/pandorasbox.gunn). 10+ years of [art](https://www.behance.net/gallery/72001185/Kristie-Huang-Art-Portfolio).
+*Previously*, iOS engineering intern @ Facebook, building a [donation-splitting payments app](https://github.com/kristiehuang/Basket-Donation-Payments). Previously, product design intern at [7QUBES](https://www.7qubes.com/our-work/pay8fwd), cofounded a fashion tech venture, built and launched two [iOS](http://tinyurl.com/cloudcloset) [apps](http://tinyurl.com/airtimeevents) to the App Store, and managed a [creative magazine](https://issuu.com/pandorasbox.gunn). 10+ years of [art](https://www.behance.net/gallery/72001185/Kristie-Huang-Art-Portfolio).
 
 Other things: volunteering in a reading program this past summer for underserved elementary students, chatting with younger girls interested in tech.
 
 For a fuller professional overview, check out my [LinkedIn](https://www.linkedin.com/in/kristie-huang/).
 
-Here’s my [résumé](https://drive.google.com/file/d/0B2rlie9ZaAG4UjcyVTJ3b2xiZzA/view).
+Here’s my (slightly-outdated) [résumé](https://drive.google.com/file/d/0B2rlie9ZaAG4UjcyVTJ3b2xiZzA/view).
 
 ## Contact
 I love meeting new people! If you’ve read this far, please say hi :) Let's chat.
+
+One of my goals is to do some international city-hopping post-grad and would love to have friends across the world to do that.
 
 [#she256]: http://she256.org/

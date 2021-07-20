@@ -30,7 +30,7 @@ My "resumé" curiosities include startups, decentralized systems, fintech, diver
 
 For a fuller professional overview, check out my [LinkedIn](https://www.linkedin.com/in/kristie-huang/).
 
-Here’s my (slightly-outdated) [résumé](https://drive.google.com/file/d/0B2rlie9ZaAG4UjcyVTJ3b2xiZzA/view).
+Here’s my (slightly-outdated) [résumé](http://kristiehuang.com/resume).
 
 ## Next up
 I'm looking to join a mid-stage crypto company, summer 2022, in a SWE intern role!

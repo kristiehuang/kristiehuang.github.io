@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-last-updated: June 1, 2021
+last-updated: July 19, 2021
 title: Kristie Huang
 email-scraping: kristiehuang01 (at) gmail
 email: kristiehuang01@gmail.com
@@ -35,6 +35,7 @@ facebook_username: kristiehhh
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 google_analytics: G-ZVYSZB1GEW
 
 # Exclude from processing.

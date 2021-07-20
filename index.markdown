@@ -15,7 +15,7 @@ My "resumé" curiosities include startups, decentralized systems, fintech, diver
 
 ✨ [More on me](/more-on-me)
 
-### Currently:
+### Currently
 * Building better on/off-ramp systems @ [Novi Financial](http://novi.com/) (Facebook's crypto wallet) as a software engineering intern.
 * Progressing the blockchain space as Operations Lead @ [she256][#she256]. Working on a [career platform](https://medium.com/she-256/announcing-the-she256-job-board-beta-launch-9709d3c3e107) for underrepresented groups in blockchain + thinking about community engagement + plugging in wherever I can.
 * Co-managing the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)
@@ -28,7 +28,7 @@ My "resumé" curiosities include startups, decentralized systems, fintech, diver
 ### Most recently
 * Interned, researched, wrote, and supported crypto companies @ [Pantera Capital](https://www.panteracapital.com/). My last two published pieces: [investing in Wintermute](https://panteracapital.medium.com/investing-in-wintermute-d4ece31ff665), [investing in Balancer](https://panteracapital.medium.com/investing-in-balancer-63f8246df954).
 
-*Previously*, iOS engineering intern @ Facebook, building a [donation-splitting payments app](https://github.com/kristiehuang/Basket-Donation-Payments). Previously, product design intern at [7QUBES](https://www.7qubes.com/our-work/pay8fwd), cofounded a fashion tech venture, built and launched two [iOS](http://tinyurl.com/cloudcloset) [apps](http://tinyurl.com/airtimeevents) to the App Store, and managed a [creative magazine](https://issuu.com/pandorasbox.gunn). 10+ years of [art](https://www.behance.net/gallery/72001185/Kristie-Huang-Art-Portfolio).
+*Previously*, iOS engineering intern @ Facebook, building a [donation-splitting payments app](https://github.com/kristiehuang/Basket-Donation-Payments). Product design intern at [7QUBES](https://www.7qubes.com/our-work/pay8fwd), cofounded a fashion tech venture, built and launched two [iOS](http://tinyurl.com/cloudcloset) [apps](http://tinyurl.com/airtimeevents) to the App Store, and managed a [creative magazine](https://issuu.com/pandorasbox.gunn). 10+ years of [art](https://www.behance.net/gallery/72001185/Kristie-Huang-Art-Portfolio).
 
 Other things: volunteering in a reading program this past summer for underserved elementary students, chatting with younger girls interested in tech.
 
@@ -36,8 +36,14 @@ For a fuller professional overview, check out my [LinkedIn](https://www.linkedin
 
 Here’s my (slightly-outdated) [résumé](https://drive.google.com/file/d/0B2rlie9ZaAG4UjcyVTJ3b2xiZzA/view).
 
+## In the future
+I'm looking to join a mid-stage crypto company, summer 2022, in a SWE intern role!
+
+* Would particularly love to join an inclusivity-minded company focused on financial accessibility or emerging markets, but also open to adjacent opportunities.
+* I'm based in SF, open to remote, but would love to spend time in NYC or elsewhere.
+
 ## Contact
-I love meeting new people! If you’ve read this far, please say hi :) Let's chat.
+My DMs are open! If you’ve read this far, please say hi 🤍 Let's chat.
 
 One of my goals is to do some international city-hopping post-grad and would love to have friends across the world to do that.
 

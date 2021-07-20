@@ -17,7 +17,7 @@ My "resumé" curiosities include startups, decentralized systems, fintech, diver
 
 ### Currently
 * Building better on/off-ramp systems @ [Novi Financial](http://novi.com/) (Facebook's crypto wallet) as a software engineering intern.
-* Progressing the blockchain space as Operations Lead @ [she256][#she256]. Working on a [career platform](https://medium.com/she-256/announcing-the-she256-job-board-beta-launch-9709d3c3e107) for underrepresented groups in blockchain + thinking about community engagement + plugging in wherever I can.
+* Progressing the blockchain space as Operations Lead @ [she256][#she256]. Working on a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain + thinking about community engagement + plugging in wherever I can.
 * Co-managing the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)
 * Studying dual degrees in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
 * [Running, hiking, cycling, and swimming](https://www.strava.com/athletes/19298552) — the goal is to finish a sprint triathlon in the coming year!

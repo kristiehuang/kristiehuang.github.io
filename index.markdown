@@ -33,9 +33,9 @@ For a fuller professional overview, check out my [LinkedIn](https://www.linkedin
 Here’s my (slightly-outdated) [résumé](http://kristiehuang.com/resume).
 
 ## Next up
-I'm looking to join a mid-stage crypto company, summer 2022, in a SWE intern role!
+I'm looking to join a mid-stage startup, summer 2022, in a SWE intern role!
 
-* Would particularly love to join an inclusivity-minded company focused on financial accessibility or emerging markets, but also open to adjacent opportunities.
+* Would particularly love to join an inclusivity-minded crypto company focused on financial accessibility or emerging markets, but also open to adjacent opportunities.
 * I'm based in SF, open to remote, but would love to spend time in NYC or elsewhere.
 
 ## Contact

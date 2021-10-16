@@ -31,13 +31,10 @@ My "resumé" curiosities include startups, decentralized systems, fintech, diver
 
 For a fuller professional overview, check out my [LinkedIn](https://www.linkedin.com/in/kristie-huang/).
 
-Here’s my (slightly-outdated) [résumé](http://kristiehuang.com/resume).
+Here’s my [résumé](http://kristiehuang.com/resume).
 
 ## Next up
-I'm looking to join a mid-stage startup, summer 2022, in a SWE intern role!
-
-* Would particularly love to join an inclusivity-minded crypto company focused on financial accessibility or emerging markets, but also open to adjacent opportunities.
-* I live in SF, but ideally I'd be in-person in NYC.
+* Looking to work on something fun in crypto, part-time, paid, remote/SF, in an engineering capacity, from now until June 2022!
 
 ## Contact
 If you’ve read this far, please say hi 🤍 My DMs are open!

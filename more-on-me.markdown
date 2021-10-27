@@ -15,7 +15,7 @@ Notice that I got something wrong? Commenting functionality is on, so please do 
 
 ### On art & colors, on tech, and on my journey
 
-From when I was five to when I graduated high school, I lived every single weekend in a small, unassuming art studio. I wanted to become a professional oil painter and to go to art school. Growing up, most of my pants were splattered with [paint](https://www.behance.net/gallery/72001185/Kristie-Huang-Art-Portfolio).
+From when I was five to when I graduated high school, I lived every single weekend in a small, unassuming art studio. I wanted to become a professional oil painter and to go to art school. Growing up, most of my garments were splattered with [paint](https://www.behance.net/gallery/72001185/Kristie-Huang-Art-Portfolio).
 
 So I’m a pretty visual learner and thinker. To me, someone’s favorite color is quite telling. Coral-red #ff9980, for example, is my favorite color—it’s bright, energetic, and powerfully feminine. My friends call it “Kristie red” :)
 
@@ -56,6 +56,6 @@ Actively working on being a better intersectional feminist and doing important w
 * Love dried fruits too much for my own good
 * I own too many scrunchies :(
 * big on lowercasing whenever possible
-* Some other things I enjoy: volleyball, college consulting, thrifting
+
 
 If you've read this far, [please, please say hi](https://twitter.com/kristiehuang).

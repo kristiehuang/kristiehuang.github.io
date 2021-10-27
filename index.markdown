@@ -10,7 +10,7 @@ title: Home
 ## Hey, I’m Kristie! 👋
 I'm a crypto geek, lifelong student (currently at UC Berkeley), and human being. (she/her)
 
-My "resumé" curiosities include startups, decentralized systems, fintech, diversity/equity/inclusion, and product. Beyond work, though, I’ve been reflecting on wellness, sustainable happiness, privilege, relationships, and success. Welcome to my corner of the internet :)
+My "resumé" curiosities include startups, web3/crypto, emerging market macroecon, diversity/equity/inclusion, and product. Beyond work, though, I’ve been reflecting on wellness, sustainable happiness, privilege, relationships, and success. Welcome to my corner of the internet :)
 
 
 ✨ [More on me](/more-on-me)
@@ -19,8 +19,7 @@ My "resumé" curiosities include startups, decentralized systems, fintech, diver
 * Progressing the blockchain space as Operations Lead @ [she256][#she256]. Working on a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain + thinking about community engagement + plugging in wherever I can.
 * Co-managing the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)
 * Studying dual degrees in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
-* [Running, hiking, cycling, and swimming](https://www.strava.com/athletes/19298552) — the goal is to finish a sprint triathlon in the coming year!
-* Living in a [co-living hacker house](http://edyfi.org/) in Marin County this summer!
+* [Lifting, hiking, playing volleyball, running/cycling, and swimming](https://www.strava.com/athletes/19298552)
 
 ### Previously
 * Built better on/off-ramp systems @ [Novi Financial](http://novi.com/) (Facebook's crypto wallet) as a software engineering intern.
@@ -33,8 +32,8 @@ For a fuller professional overview, check out my [LinkedIn](https://www.linkedin
 
 Here’s my [résumé](http://kristiehuang.com/resume).
 
-## Next up
-* Looking to work on something fun in crypto, part-time, paid, remote/SF, in an engineering capacity, from now until June 2022!
+<!-- ## Next up
+Housing plans for summer in NYC??? -->
 
 ## Contact
 If you’ve read this far, please say hi 🤍 My DMs are open!

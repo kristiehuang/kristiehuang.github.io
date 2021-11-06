@@ -16,14 +16,15 @@ My "resumé" curiosities include startups, web3/crypto, emerging market macroeco
 ✨ [More on me](/more-on-me)
 
 ### Currently
-* Interning @ [Nascent](https://www.nascent.xyz/)! Mostly focused on engineering things, but also exploring venture.
-* Progressing the blockchain space as Operations Lead @ [she256][#she256]. Working on a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain + thinking about community engagement + plugging in wherever I can.
-* Co-managing the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)
+* Interning @ crypto VC [Nascent](https://www.nascent.xyz/)! Mostly focused on engineering things, but also exploring venture.
+* Progressing the blockchain space @ [she256][#she256]. Previously spearheaded a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain, match-made between dozens of community members and 60+ partner companies. Building community & streamlining internal ops.
 * Studying dual degrees in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
-* Weightlifting as often as I can, hiking beautiful California trails, playing volleyball on Sundays, and [recording everything on Strava](https://www.strava.com/athletes/19298552)
+* Weightlifting as often as I can, hiking beautiful California trails, playing volleyball on Sundays, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
 
 ### Previously
+* Helped launch the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)
 * Built internal tools @ [Novi Financial](http://novi.com/) (Facebook's crypto wallet) as a software engineering intern.
+* Founding Fellow @ [On Deck Catalyst](https://www.beondeck.com/catalyst); Fellow @ [Gitcoin KERNEL B3](https://kernel.community/en/); [Accel Scholar](https://eecs.berkeley.edu/resources/undergrads/accel)
 * Interned, researched, wrote, and supported crypto companies @ [Pantera Capital](https://www.panteracapital.com/). My last two published pieces: [investing in Wintermute](https://panteracapital.medium.com/investing-in-wintermute-d4ece31ff665), [investing in Balancer](https://panteracapital.medium.com/investing-in-balancer-63f8246df954).
 * iOS engineering intern @ Facebook University, building a [donation-splitting payments app](https://github.com/kristiehuang/Basket-Donation-Payments).
 

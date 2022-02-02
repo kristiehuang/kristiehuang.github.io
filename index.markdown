@@ -16,12 +16,12 @@ My "resumé" curiosities include startups, web3/crypto, emerging market macroeco
 ✨ [More on me](/more-on-me)
 
 ### Currently
-* Interning @ crypto VC [Nascent](https://www.nascent.xyz/)! Mostly focused on engineering things, but also exploring venture.
-* Progressing the blockchain space @ [she256][#she256]. Previously spearheaded a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain, match-made between dozens of community members and 60+ partner companies. Building community & streamlining internal ops.
+* Interning @ crypto VC [Nascent](https://www.nascent.xyz/), hackin' on internally-incubated projects!
 * Studying dual degrees in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
-* Weightlifting as often as I can, hiking beautiful California trails, playing volleyball on Sundays, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
+* Lifting heavy things at the gym, hiking beautiful California trails, peppering volleyballs, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
 
 ### Previously
+* Progressing the blockchain space @ [she256][#she256]. Spearheaded a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain, match-made between dozens of community members and 60+ partner companies. Building community & streamlining internal ops.
 * Helped launch the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)
 * Built internal tools @ [Novi Financial](http://novi.com/) (Facebook's crypto wallet) as a software engineering intern.
 * Founding Fellow @ [On Deck Catalyst](https://www.beondeck.com/catalyst); Fellow @ [Gitcoin KERNEL B3](https://kernel.community/en/); [Accel Scholar](https://eecs.berkeley.edu/resources/undergrads/accel)

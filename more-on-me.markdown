@@ -6,7 +6,7 @@ permalink: /more-on-me/
 
 
 ### Learning in non-private
-Learning (outside of school) has always been a pretty private, siloed experience for me. Trying a new experiment: [learning in "public"](https://www.notion.so/dual-effort-learning-in-public-cc9ff63eabc64d27a3efe45369fccd88)! It's a shared, dual-effort document with one of my loved ones as we explore this alongside one another.
+Learning (outside of school) has always been a pretty private, siloed experience for me. Trying a new experiment: [learning in "public"](https://www.notion.so/dual-effort-learning-in-public-cc9ff63eabc64d27a3efe45369fccd88)!
 
 For now, it's going to be mostly crypto-centric. The intention is to be more authentic and transparent with my progress, and I'm starting by publicizing some of my own messy, non-linear notes. I'm not editing for the public eye, so there's no guarantee for grammar, orderliness, or even correctness. 
 
@@ -19,7 +19,7 @@ From when I was five to when I graduated high school, I lived every single weeke
 
 So I’m a pretty visual learner and thinker. To me, someone’s favorite color is quite telling. Coral-red #ff9980, for example, is my favorite color—it’s bright, energetic, and powerfully feminine. My friends call it “Kristie red” :)
 
-In addition to the fine arts, I dabbled in writing. Won a couple writing contests in [elementary](https://web.archive.org/web/20120415084842/http://www.tuolumne.org/content/article.php/20120410143026414) + [middle](https://web.archive.org/web/20160421063816/http://sanfrancisco.adl.org/news/41827/) [school](https://web.archive.org/web/20170429092315/https://www.mercurynews.com/2015/05/21/palo-alto-student-wins-essay-contest/). In seventh grade, I got to 25k/50k words in my NaNoWriMo novel. I headed my [high school's creative magazine](https://issuu.com/pandorasbox.gunn) for two years, growing readership by 20x. 
+In addition to the fine arts, I dabbled in writing. Won a couple writing contests in [elementary](https://web.archive.org/web/20120415084842/http://www.tuolumne.org/content/article.php/20120410143026414) + [middle](https://web.archive.org/web/20160421063816/http://sanfrancisco.adl.org/news/41827/) [school](https://web.archive.org/web/20170429092315/https://www.mercurynews.com/2015/05/21/palo-alto-student-wins-essay-contest/). In seventh grade, I got to 25k/50k words in NaNoWriMo. I headed my [high school's creative magazine](https://issuu.com/pandorasbox.gunn) for two years, growing readership by 20x. 
 
 Then I tried debating in Model UN for two years. Then I nearly became an international relations / economics major (thank you, [YYGS](https://globalscholars.yale.edu/international-affairs-globalization)!).
 
@@ -32,7 +32,7 @@ I was very privileged to be able to spend my 10th grade summer with Make School�
 ### Diversity, equity, and inclusion
 huge for me.
 Thank you to Rewriting the Code + NCWIT + Built By Girls + Tech Ladies for being THE reason why I'm in tech today. I literally would not be in tech if it wasn't for these online support systems. I give back my time frequently to younger girls breaking into tech + helping with college apps, because I know how absolutely essential it was for me.
-Actively working on being a better intersectional feminist and doing important work at she256.
+Actively working on being a better intersectional feminist and supporting important work at she256.
 
 ### The proof
 * [RTC + she256 Workshop #1: Intro to Blockchain & Industry Overview](https://twitter.com/she_256/status/1364439534906171393)
@@ -48,7 +48,7 @@ Actively working on being a better intersectional feminist and doing important w
 
 ### Miscellaneous
 
-* I have idiopathic scoliosis! Wore a back brace for 23 hours a day from 4th to 9th grade to avoid open-back surgery. I was a hardy fourth grader—literally :’) When I was 14, I started a [Change.org petition](https://www.change.org/p/state-of-california-mandate-life-saving-scoliosis-screenings-in-elementary-schools) to the CA governor to mandate scoliosis screenings in elementary schools. It gathered hundreds of comments & 10k signatures. Nothing came out of it though, unfortunately.
+* I have idiopathic scoliosis! Wore a plastic back brace for 23 hours a day from 4th to 9th grade to avoid open-back surgery. I was a hardy fourth grader—literally :’) When I was 14, I started a [Change.org petition](https://www.change.org/p/state-of-california-mandate-life-saving-scoliosis-screenings-in-elementary-schools) to the CA governor to mandate scoliosis screenings in elementary schools. It gathered hundreds of comments & 10k signatures. Nothing came out of it though, unfortunately.
 * In 7-9th grade, I ran a [studyblr](https://studycxlture.tumblr.com/) with 10k followers :)
 * I’m an ESTJ, and very Type A... Can you tell?
 * Love dried fruits too much for my own good

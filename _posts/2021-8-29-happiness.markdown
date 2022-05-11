@@ -14,9 +14,9 @@ categories: blog
 ---
 [**(read part 1 here, on decision-making and energy allocation)**](http://kristiehuang.com/blog/2021/08/29/decisions.html)
 
-# Part 2 — Q: How do you define joy and happiness for yourself, and how are you pursuing that?
+## Part 2 — Q: How do you define joy and happiness for yourself, and how are you pursuing that?
 
-## A (Kristie):
+### A (Kristie):
 I think we all tend to get too caught up in our own lives: à la *if-I-don't-ship-this-by-Friday-my-world-will-collapse*. I know I'm definitely guilty. Modern life moves fast and it's way too easy to lose myself in the notifications & deadlines.
 
 Productivity and output, by definition, are both externally measured. When we define ourselves by our output, we let ourselves be defined by others. The reality of it is that others won't always see or know the internal struggles we might be facing: the identity struggles, the family trauma, the depression, the relationship problems, the grief.
@@ -27,7 +27,7 @@ Not to say that financial security and professional growth is wholly unimportant
 
 ***My point is to not deprive ourselves of our happiness in chase of some externally-defined measure of "success" or of what joy is supposed to look like.***
 
-### Gratitude...
+***Gratitude...***
 
 My friend Carmen published a [really profound essay](https://altered.substack.com/p/dust) that I keep finding myself coming back to over and over again: "We were made from cosmic dust, and to it we will return." And if our lives are inconsequential in the grand scheme of things, why not stop and smell the roses for a little longer? Why not live earnestly, indulge in the sights and sounds and feelings, give back as much as you can, and optimize for joy?
 
@@ -39,7 +39,7 @@ Not to say we should all just abandon all discipline and become hedonists. But b
 
 I think that's why I've found personal solace in the outdoors and in physical activity: it helps me reset my brain, zoom out of my myopia, and regain perspective. So when I do go about my life, I'm more aware and more grateful of every little part of it: for my youth, for myself, for loved ones, for strangers, for weather, for nature, for food, for financial security. 
 
-### ... and compassion
+***... and compassion***
 
 But aside from just doing things that I like and being grateful for it all, real sustainable joy is two-fold:
 
@@ -52,7 +52,7 @@ It makes a lot of sense: **by caring about and bringing joy to others, we engend
 
 
 
-## A (Amy):
+### A (Amy):
 For a fun fact, my legal name is actually Kexin, 可欣 in Chinese, meaning “able to be happy.” My dad has always wanted me to prioritize happiness in my life, finding that thing that I wake up looking forward to every morning. He has not found that thing in his life, and sometimes I fear that I will also never find that thing that makes work not feel like work. Before we talk about define and pursue happiness, can happiness even be found?
 
 When was the last time that you felt happy? The last time I felt a wave of joy was last night, when I was watching a TV show that makes me reminisent theater - acting and dancing under the spotlight and bringing the joy of the musical to the audience. A happy moment before that was when I finally figured out how yield farming works on the same night. If we keep tracing back, we might realize that when we felt happy, we were never actively looking for happiness. I don’t think about “I do this therefore I will be happy“ - but rather happiness sort of just comes to us when we cruise through our lives, following our curiosity, our heart, and sometimes our gut.
@@ -69,3 +69,5 @@ So what do you appreciate today? I hope that brings you joy and peace.
 
 
 ---
+
+[**(read part 1 here, on decision-making and energy allocation)**](http://kristiehuang.com/blog/2021/08/29/decisions.html)

@@ -12,17 +12,19 @@ categories: blog
 *Here's to M&TSI, Berkeley, and beyond.*
 
 ---
+[(read part 2 here, on defining and pursuing happiness)](http://kristiehuang.com/blog/2021/08/29/happiness.html)
 
-# Part 1 — Q: What drives your decision-making, and how do you decide for yourself?
 
-## A (Kristie):
+## Part 1 — Q: What drives your decision-making, and how do you decide for yourself?
+
+### A (Kristie):
 For me, “what drives your decision-making” is better framed as “how do you choose to allocate your time and energy”, which is derived from “what are you optimizing for”, which has roots in “what are your core values”.
 
 “How do you decide for yourself” really means “how do you trust yourself to make the correct decisions”, which also begs the question “what is the ‘correct’ decision”.
 
 TLDR, I believe the first step is to know yourself and what you value. The second step is to trust yourself, to try the actual thing, and to accept the non-linear nature of the process.
 
-### 1. knowing yourself, your core values, what you are optimizing for
+***1. knowing yourself, your core values, what you are optimizing for***
 
 Self-awareness is one of those things I think is key to my happiness. It seems super obvious, but in order to make decisions that lead to finding my happiness and my purpose, I need to have a sense of my values, what makes me tick, and what makes me happy.
 And to figure out those values and to learn more about myself, I need:
@@ -35,7 +37,7 @@ And to figure out those values and to learn more about myself, I need:
     For me, one of the values I discovered that I uphold through every area of my life is *fun*. Despite me being an ESTJ and enjoying stability, almost all of the things that bring me joy do so because I find them fun.
 - What am I optimizing for? (Totally unrelated, but great read on career optimizing: [Jill Carlson: Trends and Timescales](https://medium.com/@jillcarlson/trends-and-timescales-a9b738be3e97))
 
-### 2. trusting yourself, doing the thing, accepting non-linear nature of process
+***2. trusting yourself, doing the thing, accepting non-linear nature of process***
 
 And when it comes to doing the thing, it requires a whole lot of trust in yourself and in the process. With better understanding of myself and my values, I can trust myself that the decisions I make are the best for myself.
 
@@ -47,7 +49,7 @@ I’m a full believer in the notion that the dots connect backwards. [(Steve Job
 
 ![[https://twitter.com/waitbutwhy/status/1406980353986809861](https://twitter.com/waitbutwhy/status/1406980353986809861)](https://pbs.twimg.com/media/E4abn2tWUAUgcdU?format=png&name=large)
 
-[https://twitter.com/waitbutwhy/status/1406980353986809861](https://twitter.com/waitbutwhy/status/1406980353986809861)
+[img source: @waitbutwhy](https://twitter.com/waitbutwhy/status/1406980353986809861)
 
 I’m obviously still super young and still learning all of this. But between college apps, Berkeley consulting club apps, and job apps, I used to experience a lot of anxiety around doing the Right Thing, the Correct Thing — and I believed that following the most direct, linear, and risk-averse path would lead me to the most happiness. Granted, the generally-accepted, safest thing is usually deemed the Correct Thing for a reason. It generally yields positive, predictable results. 
 
@@ -62,7 +64,7 @@ So — what drives my decision-making, and how do I decide for myself?
 In short, I realized that, despite my ego’s fear of being perceived as mediocre, I don't actually *want* to try to "be the best of the best". I just wanna do cool shit & experience my life & hang out with genuine, self-aware people, **on my own timeline**, without beating myself up over not being 'productive' every second. And I'm trying to trust my own intuition and my own knowledge of myself to do that.
 
 
-## A (Amy):
+### A (Amy):
 To be honest, chasing prestige has been a major driving force for my entire life. I grew up in a fairly intense school district in Beijing and fought my way into the best elementary, middle, and high schools. It's been six years after my high school entrance exam, and I still remember how I ranked in my district — that is how competitive I was trained to be. It didn't change when I transferred into a U.S. high school, except that I had a new goal: getting into an Ivy League. 
 
 I ended up doing EECS at Berkeley, and here comes the "new prestige":  the best consulting clubs, top CS orgs, big-name internships, and perhaps a good GPA. I tried a lot of random things just to explore, but still ended up implicitly chasing the prestige, doing what's "good" and what's "right." After I landed on a good SWE internship for the summer, I found myself asking: "what's next?" 
@@ -82,4 +84,4 @@ Maybe, maybe not. Chasing the prestige has definitely gotten me to places and he
 
 ---
 
-[read part 2 here, on defining and pursuing happiness](http://kristiehuang.com/blog/2021/08/29/happiness.html)
+[(read part 2 here, on defining and pursuing happiness)](http://kristiehuang.com/blog/2021/08/29/happiness.html)

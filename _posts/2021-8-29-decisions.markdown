@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  halfway through college: on decision-making & energy allocation
+title:  halfway through college - on decision-making & energy allocation
 date:   2021-8-29 20:54:42 -0700
 categories: blog
 ---

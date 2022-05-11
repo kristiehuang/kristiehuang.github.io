@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  halfway through college: defining & pursuing happiness
+title:  halfway through college - defining & pursuing happiness
 date:   2021-8-29 20:54:43 -0700
 categories: blog
 ---

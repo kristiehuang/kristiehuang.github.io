@@ -12,7 +12,7 @@ categories: blog
 *Here's to M&TSI, Berkeley, and beyond.*
 
 ---
-[**(read part 1 here, on decision-making and energy allocation)**](http://kristiehuang.com/blog/2021/08/29/decisions.html)
+[**(read part 1 here, on decision-making and energy allocation)**](http://kristiehuang.com/blog/2021/08/30/decisions.html)
 
 ## Part 2 — Q: How do you define joy and happiness for yourself, and how are you pursuing that?
 
@@ -70,4 +70,4 @@ So what do you appreciate today? I hope that brings you joy and peace.
 
 ---
 
-[**(read part 1 here, on decision-making and energy allocation)**](http://kristiehuang.com/blog/2021/08/29/decisions.html)
+[**(read part 1 here, on decision-making and energy allocation)**](http://kristiehuang.com/blog/2021/08/30/decisions.html)

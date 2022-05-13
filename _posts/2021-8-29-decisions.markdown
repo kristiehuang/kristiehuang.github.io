@@ -12,7 +12,7 @@ categories: blog
 *Here's to M&TSI, Berkeley, and beyond.*
 
 ---
-[(read part 2 here, on defining and pursuing happiness)](http://kristiehuang.com/blog/2021/08/29/happiness.html)
+[(read part 2 here, on defining and pursuing happiness)](http://kristiehuang.com/blog/2021/08/30/happiness.html)
 
 
 ## Part 1 — Q: What drives your decision-making, and how do you decide for yourself?
@@ -84,4 +84,4 @@ Maybe, maybe not. Chasing the prestige has definitely gotten me to places and he
 
 ---
 
-[(read part 2 here, on defining and pursuing happiness)](http://kristiehuang.com/blog/2021/08/29/happiness.html)
+[(read part 2 here, on defining and pursuing happiness)](http://kristiehuang.com/blog/2021/08/30/happiness.html)

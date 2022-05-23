@@ -16,11 +16,12 @@ My "resumé" curiosities include startups, web3/crypto, emerging market macroeco
 ✨ [More on me](/more-on-me)
 
 ### Currently
-* Interning @ crypto VC [Nascent](https://www.nascent.xyz/), hackin' on internally-incubated projects!
+* Interning @ [Uniswap](https://uniswap.org/) in NYC!
 * Studying dual degrees in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
 * Paddling competitively on the [Cal Dragon Boat](https://caldragonboat.berkeley.edu/) team, picking up heavy things at the gym, hiking beautiful California trails, peppering volleyballs, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
 
 ### Previously
+* Interned @ crypto build team / VC [Nascent](https://nascent.xyz), hacking on internally-incubated [NFT x MEV experiments](https://medium.com/nascent-xyz/yobot-an-experiment-in-incubation-133c502cbc05).
 * Progressing the blockchain space @ [she256][#she256]. Spearheaded a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain, match-made between dozens of community members and 60+ partner companies. Building community & streamlining internal ops.
 * Helped launch the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)
 * Built internal tools @ [Novi Financial](http://novi.com/) (Facebook's crypto wallet) as a software engineering intern.

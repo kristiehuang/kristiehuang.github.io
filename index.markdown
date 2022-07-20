@@ -17,7 +17,7 @@ My "resumé" curiosities include startups, web3/crypto, emerging market macroeco
 ### Currently
 
 - Interning on the web team @ [Uniswap Labs](https://uniswap.org/), workin' on [widgets](https://docs.uniswap.org/sdk/widgets/swap-widget) & better dev experience!
-- Soaking up the summer in New York City - eating, dancing, drinking, picnicking, and socializing.
+- Soaking up the summer in New York City - eating, dancing, drinking, picnicking, and socializing. A [couple](https://www.barmoga.com/) [fave](https://sallycanwait.com/) [spots](https://eviltwin.nyc/).
 - Studying dual degrees in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
 - Paddling competitively on the [Cal Dragon Boat](https://caldragonboat.berkeley.edu/) team, picking up heavy things at the gym, hiking beautiful California trails, peppering volleyballs, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
 

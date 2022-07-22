@@ -6,11 +6,12 @@ layout: home
 title: Home
 ---
 
-## Hey, I’m Kristie! 👋
+## Hi - I’m Kristie! 👋
 
-I'm a crypto geek, lifelong student (currently at UC Berkeley), and human being. (she/her)
+I’m a rising senior @ UC Berkeley studying EECS + Business, and a huge crypto geek who's spent time working for crypto protocols, wallets, venture funds, and nonprofits.
+Building a more inclusive world matters a lot to me — it's why I've spent so much energy working towards more globally-inclusive financial systems, gender equity in tech, and better innovation ecosystems.
 
-My "resumé" curiosities include startups, web3/crypto, emerging market macroecon, diversity/equity/inclusion, and product. Beyond work, though, I’ve been reflecting on wellness, sustainable happiness, privilege, relationships, and success. Welcome to my corner of the internet :)
+I love to stay active: it's a privilege I don't take for granted since I could never participate in sports growing up due to my scoliosis. I also try to make time for myself & my loved ones as often as I can — and cuddling with my beloved maltipoo whenever I have a chance to be home with family.
 
 ✨ [More on me](/more-on-me)
 

@@ -46,6 +46,7 @@ Also forever grateful to my friends, current & ex-boyfriends, mentors, and famil
 ### A couple favorite essays
 
 - [Dust – Carmen Lau](https://altered.substack.com/p/dust?s=r)
+- [Advice, like youth, probably just wasted on the young](https://www.chicagotribune.com/columns/chi-schmich-sunscreen-column-column.html)
 - [Being Alone – Ankit Shah](https://www.ankit.fyi/being-alone)
 - [Signs of Spring – Abigail Africa](https://app.sparkmailapp.com/web-share/9OJcHD2jn-v0gPAjRfG_phaW3Hbz4gTEOzHm694E)
 - [on self-directed work: a cartographer’s journey – Paige Finn Doherty](https://paigefinndoherty.com/2020/10/13/on-self-directed-work-a-cartographers-journey/)

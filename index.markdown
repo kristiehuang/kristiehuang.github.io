@@ -22,12 +22,11 @@ I love to stay active: it's a privilege I don't take for granted since I could n
 
 ### Previously
 
-- Interned on the web team @ [Uniswap Labs](https://uniswap.org/) in NYC, made major dev experience improvements to the [swap widget](https://twitter.com/kristiehuang/status/1557465571200880642)!
+- Interned on the web team @ [Uniswap Labs](https://uniswap.org/) in NYC, made major dev experience improvements to the [swap widget](https://twitter.com/kristiehuang/status/1557465571200880642).
 - Interned @ crypto build team / VC [Nascent](https://nascent.xyz), hacking on internally-incubated [NFT x MEV experiments](https://medium.com/nascent-xyz/yobot-an-experiment-in-incubation-133c502cbc05).
-- Progressing the blockchain space @ [she256][#she256]. Spearheaded a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain, match-made between dozens of community members and 60+ partner companies. Building community & streamlining internal ops.
+- Progressed the blockchain space @ [she256][#she256]. Spearheaded a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain, match-made between dozens of community members and 60+ partner companies. Built community & streamlined internal ops.
 - Helped launch the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)
 - Built internal tools @ [Novi Financial](http://novi.com/) (Facebook's crypto wallet) as a software engineering intern.
-- Berkeley [Accel Scholar](https://eecs.berkeley.edu/resources/undergrads/accel); Founding Fellow @ [On Deck Catalyst](https://www.beondeck.com/catalyst); Fellow @ [Gitcoin KERNEL B3](https://kernel.community/en/)
 - Interned, researched, wrote, and supported crypto companies @ [Pantera Capital](https://www.panteracapital.com/). My last two published pieces: [investing in Wintermute](https://panteracapital.medium.com/investing-in-wintermute-d4ece31ff665), [investing in Balancer](https://panteracapital.medium.com/investing-in-balancer-63f8246df954).
 - iOS engineering intern @ Facebook University, building a [donation-splitting payments app](https://github.com/kristiehuang/Basket-Donation-Payments).
 

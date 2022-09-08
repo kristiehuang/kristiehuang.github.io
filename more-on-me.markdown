@@ -3,7 +3,6 @@ layout: page
 title: More on me
 permalink: /more-on-me/
 ---
-
 ### A couple favorite essays
 
 - [Dust – Carmen Lau](https://altered.substack.com/p/dust?s=r)

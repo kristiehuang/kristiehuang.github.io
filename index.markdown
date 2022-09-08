@@ -8,7 +8,7 @@ title: Home
 
 ## Hi - I’m Kristie! 👋
 
-I’m a rising senior @ UC Berkeley studying EECS + Business, and a huge crypto geek who's spent time working for crypto protocols, wallets, venture funds, and nonprofits.
+I’m a senior @ UC Berkeley studying EECS + Business, and a huge crypto geek who's spent time working for crypto protocols, wallets, venture funds, and nonprofits.
 Building a more inclusive world matters a lot to me — it's why I've spent so much energy working towards more globally-inclusive financial systems, gender equity in tech, and better innovation ecosystems.
 
 I love to stay active: it's a privilege I don't take for granted since I could never participate in sports growing up due to my scoliosis. I also try to make time for myself & my loved ones as often as I can — and cuddling with my beloved maltipoo whenever I have a chance to be home with family.
@@ -17,13 +17,12 @@ I love to stay active: it's a privilege I don't take for granted since I could n
 
 ### Currently
 
-- Interning on the web team @ [Uniswap Labs](https://uniswap.org/), workin' on [widgets](https://docs.uniswap.org/sdk/widgets/swap-widget) & better dev experience!
-- Soaking up the summer in New York City - eating, dancing, drinking, picnicking, and socializing. A [couple](https://www.barmoga.com/) [fave](https://sallycanwait.com/) [spots](https://eviltwin.nyc/).
 - Studying dual degrees in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](http://met.berkeley.edu/).
-- Paddling competitively on the [Cal Dragon Boat](https://caldragonboat.berkeley.edu/) team, picking up heavy things at the gym, hiking beautiful California trails, peppering volleyballs, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
+- Paddling competitively on the [Cal Dragon Boat](https://caldragonboat.berkeley.edu/) team, picking up heavy things at the gym, hiking beautiful California trails, peppering volleyballs, bouldering occasionally, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
 
 ### Previously
 
+- Interned on the web team @ [Uniswap Labs](https://uniswap.org/) in NYC, made major dev experience improvements to the [swap widget](https://twitter.com/kristiehuang/status/1557465571200880642)!
 - Interned @ crypto build team / VC [Nascent](https://nascent.xyz), hacking on internally-incubated [NFT x MEV experiments](https://medium.com/nascent-xyz/yobot-an-experiment-in-incubation-133c502cbc05).
 - Progressing the blockchain space @ [she256][#she256]. Spearheaded a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain, match-made between dozens of community members and 60+ partner companies. Building community & streamlining internal ops.
 - Helped launch the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)

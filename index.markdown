@@ -22,7 +22,7 @@ I love to stay active: it's a privilege I don't take for granted since I could n
 
 ### Previously
 
-- Interned on the web team @ [Uniswap Labs](https://uniswap.org/) in NYC, made major dev experience improvements to the [swap widget](https://twitter.com/kristiehuang/status/1557465571200880642).
+- Interned on the web team @ [Uniswap Labs](https://uniswap.org/) in NYC, made major dev experience improvements to the [swap widget](https://twitter.com/kristiehuang/status/1557465571200880642) that [doubled weekly downloads](https://twitter.com/Uniswap/status/1575523431210262528).
 - Interned @ crypto build team / VC [Nascent](https://nascent.xyz), hacking on internally-incubated [NFT x MEV experiments](https://medium.com/nascent-xyz/yobot-an-experiment-in-incubation-133c502cbc05).
 - Progressed the blockchain space @ [she256][#she256]. Spearheaded a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain, match-made between dozens of community members and 60+ partner companies. Built community & streamlined internal ops.
 - Helped launch the first ever investment DAO focused on early-stage female & nonbinary crypto founders: [Komorebi Collective](https://www.syndicateprotocol.org/syndicate/komorebi_collective). Raising, organizing, diligencing, investing. [We're on TechCrunch!](https://techcrunch.com/2021/05/21/decentralized-komorebi-collective-launches-to-back-female-and-non-binary-crypto-founders/?tpcc=ECTW2020)

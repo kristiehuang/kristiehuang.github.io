@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  how i think through big decisions
+title:  how i think through big plans/decisions
 date:   2022-10-9 14:55:38 -0700
 categories: blog
 ---

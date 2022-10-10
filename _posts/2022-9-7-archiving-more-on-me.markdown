@@ -26,13 +26,13 @@ From when I was five to when I graduated high school, I lived every single weeke
 
 So I’m a pretty visual learner and thinker. Unironically, I love asking about people's favorite colors! Coral-red #ff9980, for example, is my favorite color—it’s bright, energetic, and powerfully feminine. My friends call it “Kristie red” :)
 
-In addition to the fine arts, I dabbled in writing. Won a couple writing contests in [elementary](https://web.archive.org/web/20120415084842/http://www.tuolumne.org/content/article.php/20120410143026414) + [middle](https://web.archive.org/web/20160421063816/http://sanfrancisco.adl.org/news/41827/) [school](https://web.archive.org/web/20170429092315/https://www.mercurynews.com/2015/05/21/palo-alto-student-wins-essay-contest/). In seventh grade, I got to 25k/50k words in NaNoWriMo. In high school, I was editor-in-chief of the [creative magazine](https://issuu.com/pandorasbox.gunn) for two years, growing readership by 20x.
+In addition to the fine arts, I dabbled in writing. Won a couple writing contests in [elementary](https://web.archive.org/web/20120415084842/https://www.tuolumne.org/content/article.php/20120410143026414) + [middle](https://web.archive.org/web/20160421063816/https://sanfrancisco.adl.org/news/41827/) [school](https://web.archive.org/web/20170429092315/https://www.mercurynews.com/2015/05/21/palo-alto-student-wins-essay-contest/). In seventh grade, I got to 25k/50k words in NaNoWriMo. In high school, I was editor-in-chief of the [creative magazine](https://issuu.com/pandorasbox.gunn) for two years, growing readership by 20x.
 
 Then I tried debating in Model UN for two years. Then I nearly became an international relations / economics major (thank you, [YYGS](https://globalscholars.yale.edu/international-affairs-globalization)!).
 
 So I never thought I'd be a ~tech~ person.
 
-But when I tried my hand at [UI design](https://www.behance.net/kristiehuang), I loved being able to create prototypes of things I could actually use. Then, I wanted to go from prototypes to real, functioning apps. I spent the summer after tenth grade learning to code at Make School—where I shipped my first two [real](http://tinyurl.com/cloudcloset) [apps](http://tinyurl.com/airtimeevents).
+But when I tried my hand at [UI design](https://www.behance.net/kristiehuang), I loved being able to create prototypes of things I could actually use. Then, I wanted to go from prototypes to real, functioning apps. I spent the summer after tenth grade learning to code at Make School—where I shipped my first two [real](https://tinyurl.com/cloudcloset) [apps](https://tinyurl.com/airtimeevents).
 
 It's been a whirlwind since then.
 

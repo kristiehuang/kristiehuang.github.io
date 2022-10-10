@@ -5,14 +5,14 @@ date:   2021-8-29 20:54:43 -0700
 categories: blog
 ---
 
-*This is a two-part blogpost series from roommates, [Amy](http://twitter.com/AmyDeng_) and [Kristie](http://twitter.com/kristiehuang). We're currently both third-year undergrad students at UC Berkeley—both heavily involved with the student tech and entrepreneurship scenes on campus and beyond.*
+*This is a two-part blogpost series from roommates, [Amy](https://twitter.com/AmyDeng_) and [Kristie](https://twitter.com/kristiehuang). We're currently both third-year undergrad students at UC Berkeley—both heavily involved with the student tech and entrepreneurship scenes on campus and beyond.*
 
 *In 2018, we met as randomly assigned roommates at a tech & business summer camp for high schoolers. We've been roommates ever since. In the past three years, we've each grown and developed a lot, both individually and together. Here are our individual musings on topics that we've explored in depth together and want to share with our broader audiences.* 
 
 *Here's to M&TSI, Berkeley, and beyond.*
 
 ---
-[**(read part 1 here, on decision-making and energy allocation)**](http://kristiehuang.com/blog/2021/08/30/decisions.html)
+[**(read part 1 here, on decision-making and energy allocation)**](https://kristiehuang.com/blog/2021/08/30/decisions.html)
 
 ## Part 2 — Q: How do you define joy and happiness for yourself, and how are you pursuing that?
 
@@ -70,4 +70,4 @@ So what do you appreciate today? I hope that brings you joy and peace.
 
 ---
 
-[**(read part 1 here, on decision-making and energy allocation)**](http://kristiehuang.com/blog/2021/08/30/decisions.html)
+[**(read part 1 here, on decision-making and energy allocation)**](https://kristiehuang.com/blog/2021/08/30/decisions.html)

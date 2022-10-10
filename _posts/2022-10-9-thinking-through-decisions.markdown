@@ -11,7 +11,7 @@ by nature, i'm Type A asf. having *no* plan for myself for major decisions in th
 
 that being said, obviously this doesn't hold for everything -- over-rigid plans, over-done planning, having "10-year goals", etc can be counterproductive. you need to be able to be flexible & dynamic with your goals/plans as life situations and values and circumstances and opportunities change. let life take you in the direction that it takes you!
 
-[(see my other post on making decisions.)](http://kristiehuang.com/blog/2021/08/30/decisions.html)
+[(see my other post on making decisions.)](https://kristiehuang.com/blog/2021/08/30/decisions.html)
 
 so when i do need to think about a hard decision or plan something big, i:
 * list out my overarching reasons for why i care about this in the first place, and all my requisites

@@ -44,6 +44,8 @@ what i actually did:
 * jr summer: Uniswap SWE intern (~100 headcount)
 * sr: signed ft offer for Uniswap SWE
 
+related: [3 words of advice for students from ali partovi](https://neo.substack.com/p/three-words-of-advice-every-student)
+
 
 ## another example: solo travel-planning after graduation
 big goal of mine is to get some solo travelling in after i graduate. it's the time of my life to see the world without obligations - no job, no family, no health issues.

@@ -11,6 +11,8 @@ permalink: /more-on-me/
 - [Signs of Spring – Abigail Africa](https://app.sparkmailapp.com/web-share/9OJcHD2jn-v0gPAjRfG_phaW3Hbz4gTEOzHm694E)
 - [on self-directed work: a cartographer’s journey – Paige Finn Doherty](https://paigefinndoherty.com/2020/10/13/on-self-directed-work-a-cartographers-journey/)
 
+Find more of what I'm reading in my [Curius bookshelf](https://curius.app/kristie-huang) :)
+
 ### Features
 
 - [RTC + she256 Workshop #1: Intro to Blockchain & Industry Overview](https://twitter.com/she_256/status/1364439534906171393)

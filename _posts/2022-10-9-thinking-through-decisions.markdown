@@ -8,6 +8,7 @@ categories: blog
 recently i was chatting with a younger friend about internship-searching. so i went back into my notes and found a couple notes where i thought through my internship strategy. realized in retrospect that i had accomplished everything that i wanted to accomplish - and it felt extremely validating! that all my thinking, planning, strategizing leads to me getting exactly what i want.
 
 by nature, i'm super Type A, for better or for worse. i feel anxious when i have *no* plan for major decisions in the near future. there are its pros: i'm able to strategize to achieve my goals. and of course, there are its cons: by planning all my weekends and plans, i miss out on the serendipity that comes from spontaneity.
+
 it works for me though, since this is how i naturally think and operate. (ironically, in order to balance out the planned-unplanned in my life, i schedule in unplanned blocks of time. lol.) i'm sure that as i get older and experience more of the world, my philosophies will change.
 
 at this point though, it's an interesting thought exercise for me to write about how i think through important plans/decisions. i also get questions about it occasionally, so i thought i'd post it to my blog! that hopefully no one really reads!

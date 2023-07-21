@@ -16,10 +16,12 @@ I’m also Type A planner who seeks out Type II fun. I love hard hikes, backpack
 
 ✨ [More on me](/more-on-me)
 
+---
 ### Currently
 
 - Studying dual degrees in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](https://met.berkeley.edu/).
 - Paddling competitively on the [Cal Dragon Boat](https://caldragonboat.berkeley.edu/) team, picking up heavy things at the gym, hiking beautiful California trails, peppering volleyballs, bouldering occasionally, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
+---
 
 ### Previously
 

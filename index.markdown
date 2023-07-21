@@ -8,10 +8,11 @@ title: Home
 
 ## Hi - I’m Kristie! 👋
 
-I’m a senior @ UC Berkeley studying EECS + Business, and a huge crypto geek who's spent time working for crypto protocols, wallets, venture funds, and nonprofits.
-Building a more inclusive world matters a lot to me — it's why I've spent so much energy working towards more globally-inclusive financial systems, gender equity in tech, and better innovation ecosystems.
+I’m soon to move to NYC to join Uniswap Labs as a software engineer, after recently graduating from UC Berkeley with degrees in EECS & business. 
 
-I love to stay active: it's a privilege I don't take for granted since I could never participate in sports growing up due to my scoliosis. I also try to make time for myself & my loved ones as often as I can — and cuddling with my beloved maltipoo whenever I have a chance to be home with family.
+I’m a crypto geek who's spent time working for crypto protocols, wallets, venture funds, and nonprofits. Building a more inclusive world matters a lot to me — it's why I've spent so much energy working towards more globally-inclusive financial systems, gender equity in tech, and better innovation ecosystems.
+
+I’m also Type A planner who seeks out Type II fun. I love hard hikes, backpacking, volleyball, immersive travel, and being out on the water. In college, I paddled competitively with Cal Dragon Boat. After graduating, I travelled Europe solo for a couple weeks and hiked (part of) the Tour du Mont Blanc. Being able to stay active is a privilege I don’t take for granted since I could never participate in sports growing up due to my scoliosis. 
 
 ✨ [More on me](/more-on-me)
 
@@ -29,7 +30,6 @@ I love to stay active: it's a privilege I don't take for granted since I could n
 - Built internal tools @ [Novi Financial](https://novi.com/) (Facebook's crypto wallet) as a software engineering intern.
 - Interned, researched, wrote, and supported crypto companies @ [Pantera Capital](https://www.panteracapital.com/). My last two published pieces: [investing in Wintermute](https://panteracapital.medium.com/investing-in-wintermute-d4ece31ff665), [investing in Balancer](https://panteracapital.medium.com/investing-in-balancer-63f8246df954).
 - iOS engineering intern @ Facebook University, building a [donation-splitting payments app](https://github.com/kristiehuang/Basket-Donation-Payments).
-
 - In high school: Product design intern at [7QUBES](https://www.7qubes.com/our-work/pay8fwd), cofounded a fashion tech venture, built and launched two [iOS](https://tinyurl.com/cloudcloset) [apps](https://tinyurl.com/airtimeevents) to the App Store, and managed a [creative magazine](https://issuu.com/pandorasbox.gunn). 10+ years of [art](https://www.behance.net/gallery/72001185/Kristie-Huang-Art-Portfolio).
 
 For a fuller professional overview, check out my [LinkedIn](https://www.linkedin.com/in/kristie-huang/).
@@ -39,7 +39,5 @@ Here’s my [résumé](https://kristiehuang.com/resume).
 ## Contact
 
 If you’ve read this far, please say hi 🤍 My DMs are open!
-
-I'm planning a few months of international city-hopping post-grad and would love to have friends across the world to do that.
 
 [#she256]: https://she256.org/

@@ -17,11 +17,12 @@ I’m also Type A planner who seeks out Type II fun. I love hard hikes, backpack
 ✨ [More on me](/more-on-me)
 
 ### Currently
-- Paddling competitively on the [Cal Dragon Boat](https://caldragonboat.berkeley.edu/) team, picking up heavy things at the gym, hiking beautiful California trails, peppering volleyballs, bouldering occasionally, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
+- Picking up heavy things at the gym, hiking beautiful California trails, peppering volleyballs, bouldering occasionally, and [recording everything on Strava.](https://www.strava.com/athletes/19298552)
 
 ### Previously
 
 - Studied dual degrees in EECS + Business @ [UC Berkeley Management, Entrepreneurship, and Technology Program](https://met.berkeley.edu/).
+- Paddled competitively on the [Cal Dragon Boat](https://caldragonboat.berkeley.edu/) team.
 - Interned on the web team @ [Uniswap Labs](https://uniswap.org/) in NYC, made major dev experience improvements to the [swap widget](https://twitter.com/kristiehuang/status/1557465571200880642) that [doubled weekly downloads](https://twitter.com/Uniswap/status/1575523431210262528).
 - Interned @ crypto build team / VC [Nascent](https://nascent.xyz), hacking on internally-incubated [NFT x MEV experiments](https://medium.com/nascent-xyz/yobot-an-experiment-in-incubation-133c502cbc05).
 - Progressed the blockchain space @ [she256][#she256]. Spearheaded a [career platform](https://she256.org/career-dev/) for underrepresented groups in blockchain, match-made between dozens of community members and 60+ partner companies. Built community & streamlined internal ops.

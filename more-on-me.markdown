@@ -3,6 +3,11 @@ layout: page
 title: More on me
 permalink: /more-on-me/
 ---
+
+### Favorite trails
+
+- [Kennedy Lake Trail, Emigrant Wilderness, CA](https://www.alltrails.com/explore/trail/us/california/kennedy-lake-trail)
+- Val Ferret to Courmayeur via Refugio Bonatti, Italy
 ### A couple favorite essays
 
 - [Dust – Carmen Lau](https://altered.substack.com/p/dust?s=r)

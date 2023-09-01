@@ -8,6 +8,7 @@ permalink: /more-on-me/
 
 - [Kennedy Lake Trail, Emigrant Wilderness, CA](https://www.alltrails.com/explore/trail/us/california/kennedy-lake-trail)
 - Val Ferret to Courmayeur via Refugio Bonatti, Italy
+
 ### A couple favorite essays
 
 - [Dust – Carmen Lau](https://altered.substack.com/p/dust?s=r)
@@ -25,11 +26,12 @@ Find more of what I'm reading in my [Curius bookshelf](https://curius.app/kristi
 - [BAF x she256 Panel: The Path to Mass Adoption, with Catherine Coley & Vanessa Grellet](https://www.youtube.com/watch?v=f3i9kItUi-k&t=73s)
 - [Girl Genius Magazine - College Application AMA](https://youtu.be/lKmgBW9mHGk)
 
-### Miscellaneous
+### Fun facts
 
+- I'm officially certified in wilderness first aid.
 - I have idiopathic scoliosis! Wore a plastic back brace for 23 hours a day from 4th to 9th grade to avoid open-back surgery. I was a hardy fourth grader—literally :’) When I was 14, I started a [Change.org petition](https://www.change.org/p/state-of-california-mandate-life-saving-scoliosis-screenings-in-elementary-schools) to the CA governor to mandate scoliosis screenings in elementary schools. It gathered hundreds of comments & 10k signatures. Nothing came out of it though, unfortunately.
 - In 7-9th grade, I ran a [studyblr](https://studycxlture.tumblr.com/) with 10k followers :)
-- I’m an ESTJ, and very Type A... Can you tell?
+- an ESTJ
 - Swift was the very first programming language I learned... even before Python :')
 - Love dried fruits too much for my own good
 - big on lowercasing whenever possible

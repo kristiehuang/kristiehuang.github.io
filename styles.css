@@ -88,16 +88,12 @@ a.post-link {
   text-decoration-line: underline;
 }
 
-.navbar {
-  display: flex;
-  justify-content: left;
-}
-
 /* Style the navigation list */
 .nav-list {
   list-style: none;
   display: flex;
-  padding-left: 0;
+  padding: 1em 0 1em 0;
+  justify-content: space-left;
 }
 
 /* Style each navigation item */
@@ -128,10 +124,23 @@ a.post-link {
   padding-left: 34%;
 }
 
-@media (min-width: 900px) {
+/* Media query for screens smaller than 600px */
+@media (max-width: 600px) {
   .content {
     width: 85%;
     padding-left: 15%;
+  }
+  body {
+    margin: 1em 0 auto;
+    padding: 3em;
+  }
+
+  .nav-list {
+    justify-content: space-between;
+  }
+
+  .nav-list li {
+    margin: 0;
   }
 }
 

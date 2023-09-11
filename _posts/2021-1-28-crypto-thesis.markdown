@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  my crypto thesis
-date:   2021-1-28 23:45:18 -0700
+title: my crypto thesis
+date: 2021-1-28 23:45:18 -0700
 categories: blog
 ---
 
 **My most recent essay application to the blockchain club on campus also serves as a pretty holistic summary of why I'm excited about crypto. :)**
 
-Nearly 1 out of every 3 adults worldwide do not have a bank or a mobile money provider. Access to money is the first critical step in escaping poverty—but developing economies often lack the necessary financial or governmental infrastructure to provide reliable, accessible money access to their people. For those who are lucky to have access, cross-border transactions are unsustainably costly and slow. And yet 1 in every 7 people on this planet relies on sending or receiving remittances—often from foreign workers back to their families in their home countries. 
+Nearly 1 out of every 3 adults worldwide do not have a bank or a mobile money provider. Access to money is the first critical step in escaping poverty—but developing economies often lack the necessary financial or governmental infrastructure to provide reliable, accessible money access to their people. For those who are lucky to have access, cross-border transactions are unsustainably costly and slow. And yet 1 in every 7 people on this planet relies on sending or receiving remittances—often from foreign workers back to their families in their home countries.
 
 Even in established economies like ours, modern banking systems are tainted by discriminatory lending policies (https://www.investopedia.com/the-history-of-lending-discrimination-5076948). In very recent news, we’ve learned that even brokers who claim to democratize finance can halt retail trading and forcefully close out their users’ positions.
 
-Traditional finance is literally a space that’s waiting to be disrupted. Some solutions, like Stripe or Plaid, aim to streamline consumers’ interactions with the banking system, and have found wild success doing so. But crypto offers a fundamentally different alternative—it provides not just a more streamlined interface for your slow bank account, but an entirely new payment rail that makes use of peer-to-peer network effects to fully disintermediate banking. And they’re ultimately faster and more accessible. 	
+Traditional finance is literally a space that’s waiting to be disrupted. Some solutions, like Stripe or Plaid, aim to streamline consumers’ interactions with the banking system, and have found wild success doing so. But crypto offers a fundamentally different alternative—it provides not just a more streamlined interface for your slow bank account, but an entirely new payment rail that makes use of peer-to-peer network effects to fully disintermediate banking. And they’re ultimately faster and more accessible.
 
 DeFi enables truly fair and equal access to money. And—all the smart minds at the forefront of the tech space are building on top of the blockchain to create these new financial primitives. Innovation is happening in every possible dimension: Wyre building a fiat onramp, Maker building the currency replacement, 1inch building the exchange, Balancer building the index fund. Celo building from bottom-up, Diem building from top-down. And I believe that we’re only in the very early innings; Ethereum is 5 years old, and Bitcoin is 11. The internet, for comparison, was in its twenties by the time the dotcom boom hit. In the next 5-10 years, I think a decentralized app platform like Ethereum will become the dominating platform at Google's current scale.
 

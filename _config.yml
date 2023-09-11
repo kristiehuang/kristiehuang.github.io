@@ -18,18 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-last-updated: July 23, 2023
 title: Kristie Huang
-email-scraping: kristiehuang01 (at) gmail
-email: kristiehuang01@gmail.com
-# description: >- # this means to ignore newlines until "baseurl:"
-#   blahblahblah
+# email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I’m a software engineer at Uniswap Labs in NYC. Recent 2023 grad from UC Berkeley M.E.T. with degrees in EECS + Business.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: kristiehuang
-github_username:  kristiehuang
-linkedin_username: kristie-huang
-facebook_username: kristiehhh
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 theme: minima

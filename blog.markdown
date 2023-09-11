@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blog
 permalink: /blog/
 ---
@@ -10,12 +10,12 @@ permalink: /blog/
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <div class="post-meta">{{ post.date | date: date_format }}</div>
+        
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
+        
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
@@ -24,6 +24,7 @@ permalink: /blog/
     </ul>
 
     <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+
+{%- endif -%}
 
 </div>

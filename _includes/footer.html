@@ -1,38 +1,22 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email-scraping }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        {%- if site.last-updated -%}
-          Last updated {{ site.last-updated | escape }}
-        {%- endif -%}
-        <p>Built with Jekyll. <a href="https://github.com/kristiehuang/kristiehuang.github.io">Repo.</a></p>
-        <p>{{- site.description | escape -}}</p>
-      </div>
+<div class="footer">
+  <div class="contact-container">
+    <!-- <h3>Reach me</h3> -->
+    <div class="contact-item">
+      <p>kristi<!-- spam begone -->ehuang 01 at gma<!-- spam begone -->il</p>
     </div>
-
+    <div class="contact-item">
+      <a href="https://www.linkedin.com/in/kristie-huang/" target="_blank"
+        >LinkedIn</a
+      >
+    </div>
+    <div class="contact-item">
+      <a href="https://www.github.com/kristiehuang/" target="_blank">GitHub</a>
+    </div>
+    <div class="contact-item">
+      <a href="https://www.twitter.com/kristiehuang/" target="_blank"
+        >Twitter</a
+      >
+    </div>
   </div>
-
-</footer>
+  <p>Made with Jekyll.</p>
+</div>

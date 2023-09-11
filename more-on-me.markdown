@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: More on me
 permalink: /more-on-me/
 ---
@@ -8,6 +8,12 @@ permalink: /more-on-me/
 
 - [Kennedy Lake Trail, Emigrant Wilderness, CA](https://www.alltrails.com/explore/trail/us/california/kennedy-lake-trail)
 - Val Ferret to Courmayeur via Refugio Bonatti, Italy
+
+### Fav snaps
+
+_tbd_
+
+<!-- | ![Hiking](images/berkeley.png) | ![Volleyball](images/berkeley.png) | ![Travel](images/berkeley.png) | ![Dragon Boat](images/berkeley.png) | -->
 
 ### A couple favorite essays
 

@@ -1,0 +1,160 @@
+/* clean, round font family */
+* {
+  background-color: #fff;
+
+  /* text */
+  text-decoration-line: none;
+}
+
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 80px;
+}
+
+.text-list {
+  list-style: none; /* Remove default list bullets */
+  padding-left: 0; /* Remove default left padding */
+}
+
+.text-list li::before {
+  content: "*"; /* Set content to asterisk */
+  margin-right: 0.5em; /* Add some spacing between the asterisk and the text */
+}
+
+p,
+a,
+li {
+  color: #333333;
+  font-family: "IBM Plex Mono", "Fira Code", "Consolas", "Monaco", monospace;
+  font-size: small;
+}
+
+li {
+  margin-bottom: 2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial,
+    sans-serif;
+}
+
+#home-work-label,
+#home-life-label {
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial,
+    sans-serif;
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+strong,
+b,
+.bold {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 700;
+}
+
+a {
+  color: #bc4d3c;
+}
+
+a:hover {
+  color: #eb614c;
+}
+
+a.post-link {
+  font-size: 1.17em;
+}
+
+#kristie-title,
+#home-work-label,
+#home-life-label {
+  color: #333333;
+}
+
+#kristie-title:hover,
+#home-work-label:hover,
+#home-life-label:hover {
+  text-decoration-line: underline;
+}
+
+.navbar {
+  display: flex;
+  justify-content: left;
+}
+
+/* Style the navigation list */
+.nav-list {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+}
+
+/* Style each navigation item */
+.nav-list li {
+  margin: 0 50px 0 0;
+}
+
+/* Style the navigation links */
+.nav-list li a {
+  text-decoration: none;
+}
+
+.post-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.post-list li {
+  margin-bottom: 20px;
+}
+
+.post-meta {
+  color: #828282;
+}
+
+.content {
+  width: 66%;
+  padding-left: 34%;
+}
+
+.hobbies-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.hobbies-item {
+  max-width: 30%;
+}
+
+.hobbies-pic {
+  width: 100%;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-top: 1px solid #e8e8e8;
+  padding-top: 50px;
+  margin-top: 50px;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

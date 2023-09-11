@@ -9,12 +9,6 @@ permalink: /more-on-me/
 - [Kennedy Lake Trail, Emigrant Wilderness, CA](https://www.alltrails.com/explore/trail/us/california/kennedy-lake-trail)
 - Val Ferret to Courmayeur via Refugio Bonatti, Italy
 
-### Fav snaps
-
-_tbd_
-
-<!-- | ![Hiking](images/berkeley.png) | ![Volleyball](images/berkeley.png) | ![Travel](images/berkeley.png) | ![Dragon Boat](images/berkeley.png) | -->
-
 ### A couple favorite essays
 
 - [Dust – Carmen Lau](https://altered.substack.com/p/dust?s=r)
@@ -25,6 +19,7 @@ _tbd_
 
 Find more of what I'm reading in my [Curius bookshelf](https://curius.app/kristie-huang) :)
 
+<!--
 ### Features
 
 - [RTC + she256 Workshop #1: Intro to Blockchain & Industry Overview](https://twitter.com/she_256/status/1364439534906171393)
@@ -42,4 +37,4 @@ Find more of what I'm reading in my [Curius bookshelf](https://curius.app/kristi
 - Love dried fruits too much for my own good
 - big on lowercasing whenever possible
 
-If you've read this far, [please, please say hi](https://twitter.com/kristiehuang).
+If you've read this far, [please, please say hi](https://twitter.com/kristiehuang). -->

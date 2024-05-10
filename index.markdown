@@ -9,14 +9,7 @@ I'm a software engineer at Uniswap Labs in NYC. Graduated from UC Berkeley M.E.T
 
 <h3><a id="home-work-label" href="/work">Work</a></h3>
 
-I’m a crypto geek who’s spent time working for crypto protocols,
-wallets, venture funds, and nonprofits. Building a more inclusive world
-matters a lot to me — it’s why I’ve spent so much energy working towards
-more globally-inclusive financial systems, gender equity in tech, and
-better innovation ecosystems. In college, wrote code as an
-intern at Uniswap Labs, Nascent, Novi Financial (FB Crypto). Led
-operations at diversity nonprofit she256, and interned on the platform team at Pantera
-Capital.
+I care deeply about building a more inclusive world. It’s why I’ve spent so much energy on building radical globally-equitable financial systems at Uniswap Labs & Novi Financial, and creating better innovation ecosystems through my work at she256, Nascent & Pantera Capital.
 
 <h3><a id="home-life-label" href="/more-on-me">Life</a></h3>
 

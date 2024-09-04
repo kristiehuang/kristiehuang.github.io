@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the mountains are calling… journal entries on wanting to do it all
-date: 2024-9-4 10:34:00 -0700
+date: 2024-9-4 10:34:00 -0500
 categories: blog
 ---
 

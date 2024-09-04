@@ -5,8 +5,6 @@ date: 2024-9-4 10:34:00 -0700
 categories: blog
 ---
 
-**_alternate title:_** **on purpose, privilege, ambition, and the euphoria of nature**
-
 i live in the city, but my heart is in the trees and open sky and singing birds. it is pure euphoria when you're standing above the world looking upon the thrilling vastness & the multisensational RICHNESS of mother nature — feeling the connection to earth, the gratitude for my health, and the joy of discovery.
 
 almost everything i’ve done this year has been in pursuit of mountain time: it is healing; it is therapy.
@@ -37,6 +35,8 @@ and i don’t want my legacy to end with me… i care about financial independen
 
 ---
 
-this train of thought ends abruptly here… i don’t have an answer for these questions! i have a lot of faith that i’m only 22 - answers will come with time.
+this train of thought ends abruptly here… i don’t have an answer for these questions! i have a lot of faith that i’m only 22 - answers will come with time. but if you have answers, or if you have related lived experience - please reach out! i’d love to hear from you.
 
-if you have answers, or if you have related lived experience - reach out! i’d love to hear from you.
+---
+
+**_alternate title:_** **on purpose, privilege, ambition, and the euphoria of nature**

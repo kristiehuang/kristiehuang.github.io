@@ -7,6 +7,15 @@
   />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+  <!-- Meta tags for SEO & rich link previews -->
+  <meta name="author" content="Kristie Huang" />
+  <title>Kristie Huang</title>
+  <meta property="og:title" content="{{ page.title | escape }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:description" content="{{ page.excerpt | escape }}" />
+  <meta property="og:site_name" content="{{ site.title | escape }}" />
+
   <script
     async
     src="https://www.googletagmanager.com/gtag/js?id=G-ZVYSZB1GEW"
@@ -31,6 +40,4 @@
   </script>
   {%- if jekyll.environment == 'production' and site.google_analytics -%} {%-
   include google-analytics.html -%} {%- endif -%}
-  <meta name="author" content="Kristie Huang" />
-  <title>Kristie Huang</title>
 </head>

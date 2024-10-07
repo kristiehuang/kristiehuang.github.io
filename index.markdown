@@ -13,10 +13,4 @@ I care deeply about building a more inclusive world. It’s why I’ve spent so 
 
 <h3><a id="home-life-label" href="/more-on-me">Life</a></h3>
 
-I’m also Type A planner who seeks out Type II fun. I love hard hikes,
-backpacking, volleyball, immersive travel, and being out on the water.
-In college, I paddled competitively with Cal Dragon Boat. After
-graduating, I travelled Europe solo for a month and hiked (part
-of) the Tour du Mont Blanc. Being able to stay active is a privilege I
-don’t take for granted since I could never participate in sports growing
-up due to my scoliosis.
+I’m also Type A planner who seeks out Type II fun. I love hard hikes, backpacking, volleyball, immersive travel, and being out on the water. In college, I paddled competitively with Cal Dragon Boat. I travel solo often in chase of big mountain views around the world. Being able to stay active is a privilege I don’t take for granted since I could never participate in sports growing up due to my scoliosis.

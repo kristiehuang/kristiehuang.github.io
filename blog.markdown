@@ -5,8 +5,9 @@ permalink: /blog/
 ---
 
 <div class="home">
-  <p>occasionally i publish here, occasionally i publish at <a href="https://kristieintheworld.substack.com/">kristieintheworld.substack.com</a></p>
+      <p>Occasionally I publish here; occasionally I publish at <a href="https://kristieintheworld.substack.com/">kristieintheworld.substack.com</a>.</p>
 
+<br>
 {%- if site.posts.size > 0 -%}
 <ul class="post-list">
 {%- for post in site.posts -%}

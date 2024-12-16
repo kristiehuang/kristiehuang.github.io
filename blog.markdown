@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 <div class="home">
-      <p>Occasionally I publish here; occasionally I publish at <a href="https://kristieintheworld.substack.com/">kristieintheworld.substack.com</a>.</p>
+      <i>Occasionally I publish longer reflections here; occasionally I publish shorter-form prose from the heart at <a href="https://kristieintheworld.substack.com/">kristieintheworld.substack.com</a>.</i>
 
 <br>
 {%- if site.posts.size > 0 -%}

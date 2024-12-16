@@ -7,7 +7,8 @@ permalink: /more-on-me/
 ### Favorite trails
 
 - [Kennedy Lake Trail, Emigrant Wilderness, CA](https://www.alltrails.com/explore/trail/us/california/kennedy-lake-trail)
-- Val Ferret to Courmayeur via Refugio Bonatti, Italy
+- Val Ferret to Courmayeur via Rifugio Bonatti, Italy
+- [Base Torres Viewpoint from Refugio Torre Central, Chile](https://www.alltrails.com/trail/chile/magallanes/mirador-torres-del-paine-via-sendero-las-torres-a-chileno)
 
 <img src="/images/backpacking.png" style="width: 100%">
 

@@ -28,3 +28,8 @@ Topics vary based on whatever I'm interested in; notes topics include DeFi, urba
 - [Signs of Spring – Abigail Africa](https://app.sparkmailapp.com/web-share/9OJcHD2jn-v0gPAjRfG_phaW3Hbz4gTEOzHm694E)
 
 Find more of what I'm reading in my [Curius bookshelf](https://curius.app/kristie-huang) :)
+
+### Songs of the season
+
+- [Summer 2025](https://open.spotify.com/playlist/3PkNnHoUaoPFcPripWLRgU?si=42301884ce484da2)
+- [Spring 2025](https://open.spotify.com/playlist/1qkZFAJh7iVTHVVSVuyVBQ?si=186373b4ee4244ae)

@@ -33,3 +33,6 @@ Find more of what I'm reading in my [Curius bookshelf](https://curius.app/kristi
 
 - [Summer 2025](https://open.spotify.com/playlist/3PkNnHoUaoPFcPripWLRgU?si=42301884ce484da2)
 - [Spring 2025](https://open.spotify.com/playlist/1qkZFAJh7iVTHVVSVuyVBQ?si=186373b4ee4244ae)
+- [Winter 2025](https://open.spotify.com/playlist/1zmbO26vwQrsFAkrcTZ9Df?si=1e25ddd18a07486d)
+- [Autumn 2024](https://open.spotify.com/playlist/5Z0zzR4Twk1TlKXsjfJWXz?si=5550147a809b4d3c)
+- [Summer 2024](https://open.spotify.com/playlist/7rpUPujrAZm80wtQ3YbukV?si=17e77f8f218149ab)

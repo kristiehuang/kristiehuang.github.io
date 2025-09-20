@@ -5,7 +5,11 @@ permalink: /blog/
 ---
 
 <div class="home">
-      <i>Occasionally I publish longer reflections here; occasionally I publish shorter-form prose from the heart at <a href="https://kristieintheworld.substack.com/">kristieintheworld.substack.com</a>.</i>
+      <i>I've started publishing more frequently at <a href="https://kristieintheworld.substack.com/">kristieintheworld.substack.com</a>. Find my latest writing there!</i>
+
+<br/>
+<br/>
+<iframe src="https://kristieintheworld.substack.com/embed" width="370" height="200" frameborder="0" scrolling="no"></iframe>
 
 <br>
 {%- if site.posts.size > 0 -%}

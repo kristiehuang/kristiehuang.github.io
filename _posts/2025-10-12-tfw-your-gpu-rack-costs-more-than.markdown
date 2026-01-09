@@ -13,4 +13,6 @@ Now picture a data center full of GPUs 20 miles away. Same call comes in. The an
 
 This is the collision happening right now across American power grids: AI’s infinite appetite meeting the grid’s very finite capacity.
 
-... this was an excerpt; read the rest of my essay at https://kristieintheworld.substack.com/p/tfw-your-gpu-rack-costs-more-than
+> ... this was an excerpt; read the rest of my essay at [https://kristieintheworld.substack.com/p/tfw-your-gpu-rack-costs-more-than](https://kristieintheworld.substack.com/p/tfw-your-gpu-rack-costs-more-than)
+
+![GPUs on the grid](/assets/blog/gpus-on-grid-substack.jpg)

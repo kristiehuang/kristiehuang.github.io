@@ -8,7 +8,7 @@ permalink: /work/
 
 In one page: [resume](/resume). In long-form: [LinkedIn](https://linkedin.com/in/kristie-huang).
 
-- Currently, working a job I love as a software engineer on the web team at [Uniswap Labs](https://uniswap.org/) in Soho, NYC.
+- Currently, working a job I love as a software engineer on our core swap product team at [Uniswap Labs](https://uniswap.org/) in Soho, NYC.
 - Earned dual degrees in Electrical Engineering & Computer Sciences + Business Administration @ [UC Berkeley Management, Entrepreneurship, and Technology Program](https://met.berkeley.edu/).
 - Paddled competitively on the [Cal Dragon Boat](https://caldragonboat.berkeley.edu/) team.
 - Interned on the web team @ [Uniswap Labs](https://uniswap.org/) in NYC, made major dev experience improvements to the [swap widget](https://twitter.com/kristiehuang/status/1557465571200880642) that [doubled weekly downloads](https://twitter.com/Uniswap/status/1575523431210262528).

@@ -10,7 +10,7 @@ Started in 2020, put on hiatus for a while, but bringing back now: [my 'learning
 
 Learning (outside of school) has always been a pretty private, siloed experience for me. The intention is to be more authentic and transparent with my progress, and I’m starting by publicizing some of my own messy, non-linear notes. I’m not editing for the public eye, so there’s no guarantee for grammar, orderliness, or correctness. Inspired by [this article](https://www.swyx.io/learn-in-public/).
 
-Topics vary based on whatever I'm interested in; notes topics include DeFi, urbanism, energy policy, startup equity, notes on books I've read, etc.
+Topics vary based on whatever I'm interested in; notes topics include GPU infra, DeFi, urbanism, energy policy, startup equity, notes on books I've read, etc.
 
 ### Favorite trails
 

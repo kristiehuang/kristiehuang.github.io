@@ -4,12 +4,14 @@ title: Work
 permalink: /work/
 ---
 
-### Where I've been & what I've done
-
 In one page: [resume](/resume). In long-form: [LinkedIn](https://linkedin.com/in/kristie-huang).
 
-- Currently, working a job I love as a software engineer on our core swap product team at [Uniswap Labs](https://uniswap.org/) in Soho, NYC.
-- Currently, writing about markets I find interesting (i.e. GPUs on the grid; compute markets): see more on my [blog](/blog).
+### Currently
+
+- Working a job I love as a software engineer on our core swap product team at [Uniswap Labs](https://uniswap.org/) in Soho, NYC. Uniswap is the largest decentralized crypto exchange with $4T+ in transaction volume; a16z-backed.
+- Writing about fascinating markets (i.e. GPUs on the grid; compute as a commodity): see more on my [blog](/blog).
+
+### Previously
 
 - Earned dual degrees in Electrical Engineering & Computer Sciences + Business Administration @ [UC Berkeley Management, Entrepreneurship, and Technology Program](https://met.berkeley.edu/).
 - Paddled competitively on the [Cal Dragon Boat](https://caldragonboat.berkeley.edu/) team.
